@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>false = Use Local ; true = Use VM</description>
+      <initValue>true</initValue>
+      <name>g_USAGE_USE_VM</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>[('projectID') : '10169', ('storyKey') : 'QKB-160', ('cycleName') : 'BO-15980', ('folderName') : 'Postpaid', ('projectKey') : '']</initValue>
+      <name>JiraProjectProperties</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>[('username') : '', ('password') : '']</initValue>
+      <name>JiraUser</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Jira Server URL</description>
+      <initValue>'https://jira.smartfren.com'</initValue>
+      <name>JiraURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>[('host') : '10.16.45.81', ('username') : 'qmgr_ocs', ('password') : 'zhfRd#8088', ('port') : 22]</initValue>
+      <name>g_Recurring_Server</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>[('host') : 'localhost', ('port') : '3306', ('dbName') : 'AutomationAPI', ('user') : 'root', ('password') : 'Smartfren@123', ('driver') : 'org.mariadb.jdbc.Driver']</initValue>
+      <name>AutomationDB</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>[('host') : '10.16.45.123', ('port') : '5432', ('dbName') : 'postgres', ('user') : 'postgres', ('password') : 'Password1', ('driver') : 'org.postgresql.Driver', ('schema') : 'public']</initValue>
+      <name>SmartPoinDB</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>[('host') : '10.16.5.162', ('port') : '3306', ('dbName') : 'onboarding', ('user') : 'devapps', ('password') : 'devapps', ('driver') : 'org.mariadb.jdbc.Driver']</initValue>
+      <name>OnboardingDB</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>[('host') : '10.16.45.113', ('port') : '1521', ('service_name') : 'sh1', ('user') : 'app_schema', ('password') : 'Whale&amp;SFbsd2018', ('driver') : 'oracle.jdbc.driver.OracleDriver']</initValue>
+      <name>BillingDB_shard1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>[('host') : '10.16.45.46', ('port') : '1521', ('service_name') : 'sh2', ('user') : 'app_schema', ('password') : 'Whale&amp;SFbsd2018', ('driver') : 'oracle.jdbc.driver.OracleDriver']</initValue>
+      <name>BillingDB_shard2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>[('host') : '10.16.45.161', ('port') : '1521', ('service_name') : 'sh3', ('user') : 'app_schema', ('password') : 'Whale&amp;SFbsd2018', ('driver') : 'oracle.jdbc.driver.OracleDriver']</initValue>
+      <name>BillingDB_shard3</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>shard1=1, shard2=2, shard3=3</description>
+      <initValue>1</initValue>
+      <name>BillingDB_Used</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'/SF_Zsmart_Simulator_v.3.0'</initValue>
+      <name>OCSSimulator</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>[('IP') : '10.16.45.129', ('Port') : '8583']</initValue>
+      <name>MFinoISOServer</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>[]</initValue>
+      <name>g_CDR_List</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>g_StartDate</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>g_EndDate</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>[('host') : '10.17.85.26', ('port') : '6807', ('service name') : 'TT1', ('user') : 'mdbtt', ('password') : 'mdbttmdbtt', ('driver') : 'com.ztesoft.zsmart.jdbc.qdb.QDBDriver']</initValue>
+      <name>BillingMDBTT</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>path of sh for katalon activity related to database</description>
+      <initValue>'/qmgr_ocs/katalon/'</initValue>
+      <name>g_katalon_sh_path</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>script katalon for activity related to the MDBTT database</description>
+      <initValue>'katalon_v1.sh'</initValue>
+      <name>g_katalon_sh</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://10.16.45.129:8093'</initValue>
+      <name>g_Base_URL_API_ZSmart</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>based url PAGGR for top up</description>
+      <initValue>'http://10.16.9.18:8080'</initValue>
+      <name>g_Base_URL_PAGGR</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>SSH Server to check OCS Package Information</description>
+      <initValue>[('host') : '10.17.85.22', ('username') : 'pcrf', ('password') : 'pcrf', ('port') : '22']</initValue>
+      <name>PCRF_SSH_Server</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>5</initValue>
+      <name>g_Usage_Delay</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>SSH server to run usage</description>
+      <initValue>[('host') : '10.0.149.204', ('username') : 'app', ('password') : '10.0.149.204.pem']</initValue>
+      <name>g_Usage_Server</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>g_Test_Case_Desc</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>generate automatically</description>
+      <initValue>'Basic Z2FsaWgucmFrYXNpd2E6cGFzc3dvcmRnYWxpaA=='</initValue>
+      <name>ZephyrToken</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>generate automatically</description>
+      <initValue>[('project_id') : '', ('cycle_id') : '', ('version_id') : '', ('folder_id') : '']</initValue>
+      <name>ZephyrAutomationProperties</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

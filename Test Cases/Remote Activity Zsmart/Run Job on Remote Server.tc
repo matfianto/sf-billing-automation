@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Run Job on Remote Server</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b09ff3a8-c99e-49e5-a2bf-32ac3b95a79c</testCaseGuid>
+   <variable>
+      <defaultValue>'10.17.85.26'</defaultValue>
+      <description></description>
+      <id>0d003db5-fbb1-4fb3-9e2c-d7ad7d998884</id>
+      <masked>false</masked>
+      <name>xhost</name>
+   </variable>
+   <variable>
+      <defaultValue>'ocs'</defaultValue>
+      <description></description>
+      <id>8b46d226-03bf-406f-b682-c035a19ff5ef</id>
+      <masked>false</masked>
+      <name>xusername</name>
+   </variable>
+   <variable>
+      <defaultValue>'ocs'</defaultValue>
+      <description></description>
+      <id>adbf6d81-24c3-42fa-ba82-db2eee8f3997</id>
+      <masked>false</masked>
+      <name>xpassword</name>
+   </variable>
+   <variable>
+      <defaultValue>22</defaultValue>
+      <description></description>
+      <id>7bf32c5b-0077-45d8-b59d-229bcf1b32c1</id>
+      <masked>false</masked>
+      <name>xport</name>
+   </variable>
+   <variable>
+      <defaultValue>'source ~/.bash_profile; cd bin; pwd ; RecurrRate -e 6 -b 1 -d 20201121 -s 3701686083 -L 5'</defaultValue>
+      <description></description>
+      <id>06fbadd9-4519-499c-b78b-6f98baac7789</id>
+      <masked>false</masked>
+      <name>xcommand</name>
+   </variable>
+   <variable>
+      <defaultValue>'Program RecurrRate end'</defaultValue>
+      <description></description>
+      <id>72ddb888-4c2a-4dbc-bd12-079f9b1bc601</id>
+      <masked>false</masked>
+      <name>xendOfLine</name>
+   </variable>
+</TestCaseEntity>

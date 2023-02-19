@@ -1,0 +1,22 @@
+.gradle
+
+bin
+
+Reports
+
+Libs
+
+output
+
+!output/.gitkeep
+build
+
+.classpath
+
+.project
+
+Data Files/TestCaseInput/TestCaseExcel.xlsx
+
+Data Files/TestCaseInput/TestCaseExcel.dat
+
+.cache

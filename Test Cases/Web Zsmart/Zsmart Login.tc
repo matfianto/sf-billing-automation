@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Zsmart Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d3ff9e3c-cdbd-4667-bad5-9878e49ba5a9</testCaseGuid>
+   <variable>
+      <defaultValue>'bangkitpraja'</defaultValue>
+      <description></description>
+      <id>57b7a03d-c017-49a6-b013-d940b2fcd2dc</id>
+      <masked>false</masked>
+      <name>xusername</name>
+   </variable>
+   <variable>
+      <defaultValue>'poct@v5'</defaultValue>
+      <description></description>
+      <id>e79934e9-8c6a-4860-8bff-f1d252f0fb25</id>
+      <masked>false</masked>
+      <name>xpassword</name>
+   </variable>
+</TestCaseEntity>

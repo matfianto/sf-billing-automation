@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Run Command Line on Remote Server</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a8ba85a2-1a68-425f-9794-63a5c5bc3516</testCaseGuid>
+   <variable>
+      <defaultValue>'10.17.85.26'</defaultValue>
+      <description></description>
+      <id>d194018c-2a25-4b91-9718-4edf7fb703cf</id>
+      <masked>false</masked>
+      <name>xhost</name>
+   </variable>
+   <variable>
+      <defaultValue>'ocs'</defaultValue>
+      <description></description>
+      <id>1af04f46-4d76-4b9c-b5a4-030a1af76037</id>
+      <masked>false</masked>
+      <name>xusername</name>
+   </variable>
+   <variable>
+      <defaultValue>'ocs'</defaultValue>
+      <description></description>
+      <id>94c901f6-2dff-4662-b9ae-88848d4f79bb</id>
+      <masked>false</masked>
+      <name>xpassword</name>
+   </variable>
+   <variable>
+      <defaultValue>22</defaultValue>
+      <description></description>
+      <id>04aef2ee-152d-4184-8d49-c3c43d948881</id>
+      <masked>false</masked>
+      <name>xport</name>
+   </variable>
+   <variable>
+      <defaultValue>'hostname;whoami'</defaultValue>
+      <description></description>
+      <id>4436e4bc-4b87-44a8-b99b-b0ee6224625e</id>
+      <masked>false</masked>
+      <name>xcommand</name>
+   </variable>
+</TestCaseEntity>

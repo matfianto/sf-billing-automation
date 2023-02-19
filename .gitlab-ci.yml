@@ -1,0 +1,25 @@
+services:
+  - $DOCKER_REGISTRY/katalon-runtime-engine:latest
+
+stages:
+  - test_suite
+
+test_suite:
+  stage: test_suite
+  tags: 
+    - qa-katalon
+  image: $DOCKER_REGISTRY/katalon-runtime-engine:latest
+  script:
+    - >
+      if [ $IS_COLLECTIONS == true ]; then
+        katalonc -noSplash -runMode=console -projectPath="$PWD/Billing Automation ZSmart.prj" -retry=0 -testSuiteCollectionPath="$TEST_SUITE_COLLECTIONS" -apiKey="$KRE_API_KEY" -orgID=167522 --config -proxy.auth.option=MANUAL_CONFIG -proxy.auth.server.type=HTTP -proxy.auth.server.address=$PROXY_SERVER -proxy.auth.server.port=$PROXY_PORT -proxy.system.option=MANUAL_CONFIG -proxy.system.server.type=HTTP -proxy.system.server.address=$PROXY_SERVER -proxy.system.server.port=$PROXY_PORT -proxy.system.applyToDesiredCapabilities=true || if [[ $? -eq 1 ]]; then (exit 0); fi
+      else
+        katalonc -noSplash -runMode=console -projectPath="$PWD/Billing Automation ZSmart.prj" -retry=0 -testSuitePath="$TEST_SUITE" -executionProfile="$EXECUTION_PROFILE" -browserType="$BROWSER_TYPE" -apiKey="$KRE_API_KEY" -orgID=167522 --config -proxy.auth.option=MANUAL_CONFIG -proxy.auth.server.type=HTTP -proxy.auth.server.address=$PROXY_SERVER -proxy.auth.server.port=$PROXY_PORT -proxy.system.option=MANUAL_CONFIG -proxy.system.server.type=HTTP -proxy.system.server.address=$PROXY_SERVER -proxy.system.server.port=$PROXY_PORT -proxy.system.applyToDesiredCapabilities=true || if [[ $? -eq 1 ]]; then (exit 0); fi
+      fi
+  artifacts:
+    when: always
+    paths:
+      - $PWD/Reports
+  only:
+    - pipelines
+    - api

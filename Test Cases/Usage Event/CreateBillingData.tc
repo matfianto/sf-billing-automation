@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CreateBillingData</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ae4e7671-b9d2-47f3-931b-4fc8fafa2da1</testCaseGuid>
+   <variable>
+      <defaultValue>'6288295291028'</defaultValue>
+      <description></description>
+      <id>dd1a1a24-492d-45f0-ae9c-a8f2c2f07b4d</id>
+      <masked>false</masked>
+      <name>xMDN</name>
+   </variable>
+   <variable>
+      <defaultValue>'25536700'</defaultValue>
+      <description></description>
+      <id>c9b41436-6a4a-48e3-bcea-f9224f47eef3</id>
+      <masked>false</masked>
+      <name>xBillAmount</name>
+   </variable>
+</TestCaseEntity>

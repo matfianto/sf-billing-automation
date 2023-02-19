@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Get Info</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4d4c9c90-0bef-4a02-8f94-4b6844d4fd9c</testCaseGuid>
+   <variable>
+      <defaultValue>'6288295294326'</defaultValue>
+      <description></description>
+      <id>d10723bc-6560-4534-a8cf-3d32d9988375</id>
+      <masked>false</masked>
+      <name>xMDN_No</name>
+   </variable>
+   <variable>
+      <defaultValue>'VOL100RBA'</defaultValue>
+      <description></description>
+      <id>f8a8e86f-7d6f-4f73-a298-f5cb392e45e2</id>
+      <masked>false</masked>
+      <name>xServiceCode_No</name>
+   </variable>
+   <variable>
+      <defaultValue>'20201230'</defaultValue>
+      <description></description>
+      <id>4c0200cd-18fc-4f7e-b41b-bd1bf6a81244</id>
+      <masked>false</masked>
+      <name>xRecurringDate</name>
+   </variable>
+</TestCaseEntity>

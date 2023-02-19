@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Temp 1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b2fe58eb-c599-40cc-8749-b89763dce87e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>41c7d143-93ac-43f5-aa01-d6726211c7e1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Add IPP Success'</defaultValue>
+      <description></description>
+      <id>41c7d143-93ac-43f5-aa01-d6726211c7e1</id>
+      <masked>false</masked>
+      <name>result</name>
+   </variable>
+</TestCaseEntity>

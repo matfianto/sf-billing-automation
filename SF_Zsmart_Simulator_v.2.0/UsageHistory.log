@@ -1,0 +1,1173 @@
+Execution at  2020-12-15 17:57:22.012000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608029842  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608029842  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608029842 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-15 17:59:31.258000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608029971  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608029971  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608029971 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-15 17:59:32.393000
+Sending CCR - SMS --> Session-Name: Bangkit;SMS;1608029972  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608029972
+SMS Event success ### Bangkit;SMS;1608029972 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-15 17:59:33.629000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608029973  ## MDN A: 6288295291295  ## MDN B: 4  ## TIME: 1608029973  ## DURATION: 10  ## Acc-NW-Info(ANI): 341333
+Full Voice Initial Event failed, Intermediate & Terminate event will be skip### Bangkit;VOICE;1608029973 ### Result Code 5031
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-15 18:00:20.221000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608030020  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608030020  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608030020 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-15 18:00:21.539000
+Sending CCR - SMS --> Session-Name: Bangkit;SMS;1608030021  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608030021
+SMS Event success ### Bangkit;SMS;1608030021 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-15 18:00:22.811000
+Sending CCR GPRS --> Session-Name: Bangkit;1608030022  # MDN: 6288295291295  # TIME: 1608030022  # RG: 4  # User-Equip: 867345 0103865801  # UsageInput: 341333
+Full GPRS Until Terminate Event  success ### Bangkit;1608030022 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-15 18:03:41.242000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608030221  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608030221  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608030221 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-15 18:03:42.491000
+Sending CCR - SMS --> Session-Name: Bangkit;SMS;1608030222  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608030222
+SMS Event success ### Bangkit;SMS;1608030222 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-15 18:03:43.702000
+Sending CCR GPRS --> Session-Name: Bangkit;1608030223  # MDN: 6288295291295  # TIME: 1608030223  # RG: 4  # User-Equip: 867345 0103865801  # UsageInput: 341333
+Full GPRS Until Terminate Event  success ### Bangkit;1608030223 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-15 18:03:53.943000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608030233  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608030233  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608030233 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-15 18:03:55.268000
+Sending CCR - SMS --> Session-Name: Bangkit;SMS;1608030235  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608030235
+SMS Event success ### Bangkit;SMS;1608030235 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-15 18:03:56.400000
+Sending CCR GPRS --> Session-Name: Bangkit;1608030236  # MDN: 6288295291295  # TIME: 1608030236  # RG: 4  # User-Equip: 867345 0103865801  # UsageInput: 341333
+Full GPRS Until Terminate Event  success ### Bangkit;1608030236 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-15 18:05:05.754000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608030305  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608030305  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608030305 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-15 18:05:06.879000
+Sending CCR - SMS --> Session-Name: Bangkit;SMS;1608030306  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608030306
+SMS Event success ### Bangkit;SMS;1608030306 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-15 18:05:08.136000
+Sending CCR GPRS --> Session-Name: Bangkit;1608030308  # MDN: 6288295291295  # TIME: 1608030308  # RG: 4  # User-Equip: 867345 0103865801  # UsageInput: 341333
+Full GPRS Until Terminate Event  success ### Bangkit;1608030308 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-15 18:14:49.049000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608030889  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608030889  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608030889 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-15 18:14:50.326000
+Sending CCR - SMS --> Session-Name: Bangkit;SMS;1608030890  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608030890
+SMS Event success ### Bangkit;SMS;1608030890 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-15 18:14:51.385000
+Sending CCR GPRS --> Session-Name: Bangkit;1608030891  # MDN: 6288295291295  # TIME: 1608030891  # RG: 4  # User-Equip: 867345 0103865801  # UsageInput: 341333
+Full GPRS Until Terminate Event  success ### Bangkit;1608030891 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-15 18:24:39.959000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608031479  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608031479  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608031479 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-15 18:24:41.222000
+Sending CCR - SMS --> Session-Name: Bangkit;SMS;1608031481  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608031481
+SMS Event success ### Bangkit;SMS;1608031481 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-15 18:24:42.378000
+Sending CCR GPRS --> Session-Name: Bangkit;1608031482  # MDN: 6288295291295  # TIME: 1608031482  # RG: 4  # User-Equip: 867345 0103865801  # UsageInput: 341333
+Full GPRS Until Terminate Event  success ### Bangkit;1608031482 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-16 08:40:54.040000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608082854  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608082854  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608082854 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-16 08:40:55.358000
+Sending CCR - SMS --> Session-Name: Bangkit;SMS;1608082855  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608082855
+SMS Event success ### Bangkit;SMS;1608082855 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-16 08:40:56.572000
+Sending CCR GPRS --> Session-Name: Bangkit;1608082856  # MDN: 6288295291295  # TIME: 1608082856  # RG: 4  # User-Equip: 867345 0103865801  # UsageInput: 341333
+Full GPRS Until Terminate Event  success ### Bangkit;1608082856 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-16 08:48:35.180000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608083315  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608083315  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608083315 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-16 08:48:36.510000
+Sending CCR - SMS --> Session-Name: Bangkit;SMS;1608083316  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608083316
+SMS Event success ### Bangkit;SMS;1608083316 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-16 08:48:37.886000
+Sending CCR GPRS --> Session-Name: Bangkit;1608083317  # MDN: 6288295291295  # TIME: 1608083317  # RG: 4  # User-Equip: 867345 0103865801  # UsageInput: 341333
+Full GPRS Until Terminate Event  success ### Bangkit;1608083317 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-16 10:10:53.719000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608088253  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608088253  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608088253 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-16 10:10:54.923000
+Sending CCR - SMS --> Session-Name: Bangkit;SMS;1608088254  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608088254
+SMS Event success ### Bangkit;SMS;1608088254 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-16 10:10:56.364000
+Sending CCR GPRS --> Session-Name: Bangkit;1608088256  # MDN: 6288295291295  # TIME: 1608088256  # RG: 4  # User-Equip: 867345 0103865801  # UsageInput: 341333
+Full GPRS Until Terminate Event  success ### Bangkit;1608088256 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-16 11:05:21.155000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608091521  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608091521  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608091521 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-16 11:05:22.748000
+Sending CCR - SMS --> Session-Name: Bangkit;SMS;1608091522  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608091522
+SMS Event success ### Bangkit;SMS;1608091522 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-16 11:05:23.879000
+Sending CCR GPRS --> Session-Name: Bangkit;1608091523  # MDN: 6288295291295  # TIME: 1608091523  # RG: 4  # User-Equip: 867345 0103865801  # UsageInput: 341333
+Full GPRS Until Terminate Event  success ### Bangkit;1608091523 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-16 12:31:57.473000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608096717  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608096717  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608096717 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-16 12:31:58.637000
+Sending CCR - SMS --> Session-Name: Bangkit;SMS;1608096718  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608096718
+SMS Event success ### Bangkit;SMS;1608096718 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-16 12:32:00.043000
+Sending CCR GPRS --> Session-Name: Bangkit;1608096720  # MDN: 6288295291295  # TIME: 1608096720  # RG: 4  # User-Equip: 867345 0103865801  # UsageInput: 341333
+Full GPRS Until Terminate Event  success ### Bangkit;1608096720 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-16 13:11:30.233000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608099090  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608099090  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608099090 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-16 13:16:57.796000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608099417  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608099417  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608099417 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-16 13:16:59.914000
+Sending CCR - SMS --> Session-Name: Bangkit;SMS;1608099419  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608099419
+SMS Event success ### Bangkit;SMS;1608099419 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-16 13:17:02.098000
+Sending CCR GPRS --> Session-Name: Bangkit;1608099422  # MDN: 6288295291295  # TIME: 1608099422  # RG: 4  # User-Equip: 867345 0103865801  # UsageInput: 341333
+Full GPRS Until Terminate Event  success ### Bangkit;1608099422 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-16 13:20:18.473000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608099618  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608099618  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608099618 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-16 13:20:20.558000
+Sending CCR - SMS --> Session-Name: Bangkit;SMS;1608099620  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608099620
+SMS Event success ### Bangkit;SMS;1608099620 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-16 13:20:22.795000
+Sending CCR GPRS --> Session-Name: Bangkit;1608099622  # MDN: 6288295291295  # TIME: 1608099622  # RG: 4  # User-Equip: 867345 0103865801  # UsageInput: 341333
+Full GPRS Until Terminate Event  success ### Bangkit;1608099622 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-16 13:30:31.376000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608100231  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608100231  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608100231 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-16 13:30:33.560000
+Sending CCR - SMS --> Session-Name: Bangkit;SMS;1608100233  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608100233
+SMS Event success ### Bangkit;SMS;1608100233 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-16 13:30:35.921000
+Sending CCR GPRS --> Session-Name: Bangkit;1608100235  # MDN: 6288295291295  # TIME: 1608100235  # RG: 4  # User-Equip: 867345 0103865801  # UsageInput: 341333
+Full GPRS Until Terminate Event  success ### Bangkit;1608100235 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-16 18:30:53.620000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608118253  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608118253  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608118253 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-16 18:30:55.652000
+Sending CCR - SMS --> Session-Name: Bangkit;SMS;1608118255  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608118255
+SMS Event success ### Bangkit;SMS;1608118255 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-16 18:30:58.005000
+Sending CCR GPRS --> Session-Name: Bangkit;1608118258  # MDN: 6288295291295  # TIME: 1608118258  # RG: 4  # User-Equip: 867345 0103865801  # UsageInput: 341333
+Full GPRS Until Terminate Event  success ### Bangkit;1608118258 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-16 19:06:22.315000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608120382  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608120382  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608120382 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-16 19:07:10.568000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608120430  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608120430  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608120430 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-16 19:09:18.946000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608120558  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608120558  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608120558 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-16 19:16:34.487000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608120994  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608120994  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608120994 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-16 19:17:42.305000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608121062  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608121062  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608121062 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-16 19:20:39.521000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608121239  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608121239  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608121239 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-16 19:24:28.216000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608121468  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608121468  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608121468 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-16 19:27:41.830000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608121661  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608121661  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608121661 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-16 19:29:11.087000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608121751  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608121751  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608121751 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-16 19:35:26.330000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608122126  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608122126  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608122126 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-16 19:38:33.219000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608122313  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608122313  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608122313 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-16 19:40:01.655000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608122401  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608122401  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608122401 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-16 19:42:42.867000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608122562  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608122562  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608122562 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-16 19:45:32.913000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608122732  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608122732  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608122732 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-16 19:47:14.678000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608122834  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608122834  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608122834 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-16 19:48:21.228000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608122901  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608122901  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608122901 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-16 19:50:14.350000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608123014  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608123014  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608123014 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-16 19:51:58.881000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608123118  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608123118  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608123118 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-17 09:00:58.597000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608170458  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608170458  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608170458 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-17 13:14:50.586000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608185690  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608185690  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608185690 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-17 13:23:45.513000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608186225  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608186225  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608186225 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-17 17:44:23.238000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608201863  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608201863  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608201863 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-17 17:46:34.844000
+Sending CCR - SMS --> Session-Name: Bangkit;SMS;1608201994  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608201994
+SMS Event success ### Bangkit;SMS;1608201994 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-17 17:48:37.451000
+Sending CCR GPRS --> Session-Name: BangkitDATA;1608202117  # MDN: 6288295291295  # TIME: 1608202117  # RG: 4  # User-Equip: 867345 0103865801  # UsageInput: 341333
+Full GPRS Until Terminate Event  success ### BangkitDATA;1608202117 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-17 17:51:29.010000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608202289  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608202289  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608202289 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-17 17:53:35.355000
+Sending CCR - SMS --> Session-Name: Bangkit;SMS;1608202415  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608202415
+SMS Event success ### Bangkit;SMS;1608202415 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-17 17:55:37.696000
+Sending CCR GPRS --> Session-Name: BangkitDATA;1608202537  # MDN: 6288295291295  # TIME: 1608202537  # RG: 4  # User-Equip: 867345 0103865801  # UsageInput: 341333
+Full GPRS Until Terminate Event  success ### BangkitDATA;1608202537 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-17 18:06:29.850000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608203189  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608203189  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608203189 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-17 20:59:19.736000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608213559  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608213559  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608213559 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-17 21:11:48.936000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608214308  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608214308  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608214308 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-17 21:18:35.860000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608214715  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608214715  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608214715 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-17 22:03:36.069000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608217416  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608217416  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608217416 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-17 22:08:50.630000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608217730  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608217730  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608217730 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-17 22:09:49.457000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608217789  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608217789  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608217789 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-17 22:10:45.898000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608217845  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608217845  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608217845 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-17 22:11:23.666000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608217883  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608217883  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608217883 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-17 22:11:50.911000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608217910  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608217910  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608217910 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-17 22:22:19.621000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608218539  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608218539  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608218539 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-17 22:23:35.211000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608218615  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608218615  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608218615 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-17 22:24:33.489000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608218673  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608218673  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608218673 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-17 22:25:52.271000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608218752  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608218752  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608218752 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-17 22:26:42.928000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608218802  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608218802  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608218802 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-18 13:52:12.138000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608274332  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608274332  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608274332 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-18 13:56:26.655000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608274586  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608274586  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608274586 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-18 13:56:53.964000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608274613  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608274613  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608274613 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-18 14:15:33.426000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608275733  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608275733  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608275733 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-18 14:16:08.057000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608275768  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608275768  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608275768 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-18 14:16:48.169000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608275808  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608275808  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608275808 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-18 14:17:26.056000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608275846  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608275846  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608275846 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-18 14:18:36.769000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608275916  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608275916  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608275916 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-18 14:26:30.685000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608276390  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608276390  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608276390 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-18 14:35:31.171000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608276931  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608276931  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608276931 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-18 14:46:07.074000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608277567  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608277567  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608277567 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-18 14:51:33.007000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608277893  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608277893  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608277893 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-18 14:51:36.259000
+Sending CCR - SMS --> Session-Name: Bangkit;SMS;1608277896  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608277896
+SMS Event success ### Bangkit;SMS;1608277896 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-18 14:56:43.703000
+Sending CCR VOICE --> Session-Name: Bangkit;VOICE;1608278203  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608278203  ## DURATION: 100  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### Bangkit;VOICE;1608278203 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-18 14:56:47.190000
+Sending CCR - SMS --> Session-Name: Bangkit;SMS;1608278207  ## MDN A: 6288295291295  ## MDN B: 6288295291290  ## TIME: 1608278207
+SMS Event success ### Bangkit;SMS;1608278207 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2020-12-18 14:56:49.463000
+Sending CCR GPRS --> Session-Name: BangkitDATA;1608278209  # MDN: 6288295291295  # TIME: 1608278209  # RG: 4  # User-Equip: 867345 0103865801  # UsageInput: 341333
+Full GPRS Until Terminate Event  success ### BangkitDATA;1608278209 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-01-12 17:08:55.704000
+Sending VOICE Usage--> Session-Name: JOhan;VOICE;1610446135  ## MDN A: 6288295291151  ## MDN B: 6288295294444  ## TIME: 2021-01-12 17:08:55  ## DURATION: 180  ## Acc-NW-Info(ANI): 0
+Full Voice Until Terminate Event success ### JOhan;VOICE;1610446135 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-01-12 17:08:58.933000
+Sending SMS Usage--> Session-Name: JOhan;SMS;1610446138  ## MDN A: 6288295291151  ## MDN B: 6288295294444  ## TIME: 2021-01-12 17:08:58
+SMS Event success ### JOhan;SMS;1610446138 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-01-12 17:09:01.259000
+Sending DATA Usage --> Session-Name: JOhanDATA;1610446141  # MDN: 6288295291151  # TIME: 2021-01-12 17:09:01  # RG: 4  # User-Equip: 867345 0103865801  # UsageInput: 341333333
+Full GPRS Until Terminate Event  success ### JOhanDATA;1610446141 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Input Timestamp 1612893619
+Execution at  2021-02-09 16:13:46.948000
+Sending DATA Usage --> Session-Name: RafiDATA;1612862026  # MDN: 6288295291152  # TIME: 2021-02-10 01:00:19  # RG: 4  # User-Equip: 867345 0103865801  # UsageInput: 17066666
+Full GPRS Until Terminate Event  success ### RafiDATA;1612862026 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Input Timestamp 1612893619
+Execution at  2021-02-09 16:54:22.126000
+Sending DATA Usage --> Session-Name: RafiDATA;1612864462  # MDN: 6288295291200  # TIME: 2021-02-10 01:00:19  # RG: 4  # User-Equip: 867345 0103865801  # UsageInput: 17066666
+Full GPRS Until Terminate Event  success ### RafiDATA;1612864462 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Input Timestamp 1612893619
+Execution at  2021-02-09 17:27:35.703000
+Sending DATA Usage --> Session-Name: RafiDATA;1612866455  # MDN: 6288295291152  # TIME: 2021-02-10 01:00:19  # RG: 4  # User-Equip: 867345 0103865801  # UsageInput: 17066666
+Full GPRS Until Terminate Event  success ### RafiDATA;1612866455 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Input Timestamp 1612893619
+Execution at  2021-02-09 17:36:24.303000
+Sending DATA Usage --> Session-Name: RafiDATA;1612866984  # MDN: 6288295291200  # TIME: 2021-02-10 01:00:19  # RG: 4  # User-Equip: 867345 0103865801  # UsageInput: 17066666
+Full GPRS Until Terminate Event  success ### RafiDATA;1612866984 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Input Timestamp 1612893619
+Execution at  2021-02-09 17:55:14.058000
+Sending DATA Usage --> Session-Name: RafiDATA;1612868114  # MDN: 6288295291186  # TIME: 2021-02-10 01:00:19  # RG: 4  # User-Equip: 867345 0103865801  # UsageInput: 17066666
+Full GPRS Until Terminate Event  success ### RafiDATA;1612868114 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Input Timestamp 1612893619
+Execution at  2021-02-09 18:05:12.704000
+Sending DATA Usage --> Session-Name: RafiDATA;1612868712  # MDN: 6288295291184  # TIME: 2021-02-10 01:00:19  # RG: 4  # User-Equip: 867345 0103865801  # UsageInput: 17066666
+Full GPRS Until Terminate Event  success ### RafiDATA;1612868712 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Input Timestamp 1612893619
+Execution at  2021-02-09 18:29:05.743000
+Sending DATA Usage --> Session-Name: RafiDATA;1612870145  # MDN: 6288295291202  # TIME: 2021-02-10 01:00:19  # RG: 4  # User-Equip: 867345 0103865801  # UsageInput: 17066666
+Full GPRS Until Terminate Event  success ### RafiDATA;1612870145 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Input Timestamp 1612893619
+Execution at  2021-02-09 19:01:35.230000
+Sending DATA Usage --> Session-Name: RafiDATA;1612872095  # MDN: 628886004007  # TIME: 2021-02-10 01:00:19  # RG: 4  # User-Equip: 867345 0103865801  # UsageInput: 17066666
+Full GPRS Until Terminate Event  success ### RafiDATA;1612872095 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Input Timestamp 1612893619
+Execution at  2021-02-09 19:10:35.871000
+Sending DATA Usage --> Session-Name: RafiDATA;1612872635  # MDN: 628886004008  # TIME: 2021-02-10 01:00:19  # RG: 4  # User-Equip: 867345 0103865801  # UsageInput: 17066666
+Full GPRS Until Terminate Event  success ### RafiDATA;1612872635 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Input Timestamp 1613066410
+Execution at  2021-02-10 14:35:47.817000
+Sending DATA Usage --> Session-Name: RafiDATA;1612942547  # MDN: 628886004008  # TIME: 2021-02-12 01:00:10  # RG: 4  # User-Equip: 867345 0103865801  # UsageInput: 17066666
+Full GPRS Until Terminate Event  success ### RafiDATA;1612942547 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Input Timestamp 1613066410
+Execution at  2021-02-10 15:11:15.896000
+Sending DATA Usage --> Session-Name: RafiDATA;1612944675  # MDN: 6288295291186  # TIME: 2021-02-12 01:00:10  # RG: 4  # User-Equip: 867345 0103865801  # UsageInput: 17066666
+Full GPRS Until Terminate Event  success ### RafiDATA;1612944675 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-09 11:18:57.691000
+Sending PCRF Speed Check --> Session-Name: ludfi;PCRF;1615263537  # MDN: 6288295293095
+Execution at  2021-03-09 11:29:09.584000
+Sending PCRF Speed Check --> Session-Name: ludfi;PCRF;1615264149  # MDN: 6288295293095
+Event PCRF Speed Check failed in Initial  ### ludfi;PCRF;1615264149 ### Result Code -1
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-09 11:37:52.669000
+Sending PCRF Speed Check --> Session-Name: ludfi;PCRF;1615264672  # MDN: 6288295291793
+Execution at  2021-03-09 12:05:22.436000
+Sending PCRF Speed Check --> Session-Name: ludfi;PCRF;1615266322  # MDN: 6288295294349
+Initial Event PCRF Success with Session-Name: ludfi;PCRF;1615266322
+    APN-Aggregate-Max-Bitrate-UL : 330000000
+    APN-Aggregate-Max-Bitrate-DL : 330000000
+    Session-Id = [ludfi;PCRF;1615266322]
+    Auth-Application-Id = [3902001]
+    Origin-Host = [pcrf11.zte.com.cn]
+    Origin-Realm = [zte.com.cn]
+    Result-Code = [2001]
+   +Policy-Counter-Status-Report
+      Policy-Counter-Identifier = [billing cycle id]
+      Policy-Counter-Status = [22087]
+   +Policy-Counter-Status-Report
+      Policy-Counter-Identifier = [cust_def_lang]
+      Policy-Counter-Status = [1]
+   +Policy-Counter-Status-Report
+      Policy-Counter-Identifier = [test20190914]
+      Policy-Counter-Status = [N]
+      Policy-Counter-Exp-Date = [4294967295]
+    Origin-State-Id = [189]
+   +Package-Information
+      Package-code = [Prepaid Default Price Plan for]
+      Package-Eff-date = [3820035527]
+      Package-Exp-date = [4294967295]
+
+Terminate Event PCRF Success with Session-Name: ludfi;PCRF;1615266322
+PCRF Speed Checker Event Success ### ludfi;PCRF;1615266322 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-09 12:12:38.706000
+Sending PCRF Speed Check --> Session-Name: ludfi;PCRF;1615266758  # MDN: 6288295294349
+Initial Event PCRF Success with Session-Name: ludfi;PCRF;1615266758
+    APN-Aggregate-Max-Bitrate-UL : 330000000
+    APN-Aggregate-Max-Bitrate-DL : 330000000
+    Session-Id = [ludfi;PCRF;1615266758]
+    Auth-Application-Id = [3902001]
+    Origin-Host = [pcrf11.zte.com.cn]
+    Origin-Realm = [zte.com.cn]
+    Result-Code = [2001]
+   +Policy-Counter-Status-Report
+      Policy-Counter-Identifier = [billing cycle id]
+      Policy-Counter-Status = [22087]
+   +Policy-Counter-Status-Report
+      Policy-Counter-Identifier = [cust_def_lang]
+      Policy-Counter-Status = [1]
+   +Policy-Counter-Status-Report
+      Policy-Counter-Identifier = [test20190914]
+      Policy-Counter-Status = [N]
+      Policy-Counter-Exp-Date = [4294967295]
+    Origin-State-Id = [189]
+   +Package-Information
+      Package-code = [Prepaid Default Price Plan for]
+      Package-Eff-date = [3820035527]
+      Package-Exp-date = [4294967295]
+
+Terminate Event PCRF Success with Session-Name: ludfi;PCRF;1615266758
+PCRF Speed Checker Event Success ### ludfi;PCRF;1615266758 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-09 12:23:19.300000
+Sending PCRF Speed Check --> Session-Name: ludfi7;PCRF;1615267399  # MDN: 6288295294349
+Initial Event PCRF Success with Session-Name: ludfi7;PCRF;1615267399
+Terminate Event PCRF Success with Session-Name: ludfi7;PCRF;1615267399
+PCRF Speed Checker Event Success ### ludfi7;PCRF;1615267399 ### Result Code 2001
+    APN-Aggregate-Max-Bitrate-UL : 330000000
+    APN-Aggregate-Max-Bitrate-DL : 330000000
+    Session-Id = [ludfi7;PCRF;1615267399]
+    Auth-Application-Id = [3902001]
+    Origin-Host = [pcrf11.zte.com.cn]
+    Origin-Realm = [zte.com.cn]
+    Result-Code = [2001]
+   +Policy-Counter-Status-Report
+      Policy-Counter-Identifier = [billing cycle id]
+      Policy-Counter-Status = [22087]
+   +Policy-Counter-Status-Report
+      Policy-Counter-Identifier = [cust_def_lang]
+      Policy-Counter-Status = [1]
+   +Policy-Counter-Status-Report
+      Policy-Counter-Identifier = [test20190914]
+      Policy-Counter-Status = [N]
+      Policy-Counter-Exp-Date = [4294967295]
+    Origin-State-Id = [189]
+   +Package-Information
+      Package-code = [Prepaid Default Price Plan for]
+      Package-Eff-date = [3820035527]
+      Package-Exp-date = [4294967295]
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-09 11:56:15.273000
+Sending PCRF Speed Check --> Session-Name: ludfi;PCRF;1615265775  # MDN: 6288295294263
+Event PCRF Speed Check failed in Initial  ### ludfi;PCRF;1615265775 ### Result Code -1
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------Execution at  2021-03-09 17:37:13.462000
+Sending PCRF Speed Check --> Session-Name: ludfi;PCRF;1615286233  # MDN: 6288295294349
+Initial Event PCRF Success with Session-Name: ludfi;PCRF;1615286233
+Terminate Event PCRF Success with Session-Name: ludfi;PCRF;1615286233
+PCRF Speed Checker Event Success ### ludfi;PCRF;1615286233 ### Result Code 2001
+    APN-Aggregate-Max-Bitrate-UL : 330000000
+    APN-Aggregate-Max-Bitrate-DL : 330000000
+    Session-Id = [ludfi;PCRF;1615286233]
+    Auth-Application-Id = [3902001]
+    Origin-Host = [pcrf11.zte.com.cn]
+    Origin-Realm = [zte.com.cn]
+    Result-Code = [2001]
+   +Policy-Counter-Status-Report
+      Policy-Counter-Identifier = [billing cycle id]
+      Policy-Counter-Status = [22087]
+   +Policy-Counter-Status-Report
+      Policy-Counter-Identifier = [cust_def_lang]
+      Policy-Counter-Status = [1]
+   +Policy-Counter-Status-Report
+      Policy-Counter-Identifier = [test20190914]
+      Policy-Counter-Status = [N]
+      Policy-Counter-Exp-Date = [4294967295]
+    Origin-State-Id = [189]
+   +Package-Information
+      Package-code = [Prepaid Default Price Plan for]
+      Package-Eff-date = [3820035527]
+      Package-Exp-date = [4294967295]
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-09 17:40:09.786000
+Sending PCRF Speed Check --> Session-Name: ludfi;PCRF;1615286409  # MDN: 6288295294349
+Initial Event PCRF Success with Session-Name: ludfi;PCRF;1615286409
+90491
+90635
+94573
+94865
+95129
+95130
+95232
+95233
+95399
+97150
+Terminate Event PCRF Success with Session-Name: ludfi;PCRF;1615286409
+PCRF Speed Checker Event Success ### ludfi;PCRF;1615286409 ### Result Code 2001
+    APN-Aggregate-Max-Bitrate-UL : 330000000
+    APN-Aggregate-Max-Bitrate-DL : 330000000
+    Session-Id = [ludfi;PCRF;1615286409]
+    Auth-Application-Id = [3902001]
+    Origin-Host = [pcrf11.zte.com.cn]
+    Origin-Realm = [zte.com.cn]
+    Result-Code = [2001]
+   +Policy-Counter-Status-Report
+      Policy-Counter-Identifier = [billing cycle id]
+      Policy-Counter-Status = [22087]
+   +Policy-Counter-Status-Report
+      Policy-Counter-Identifier = [cust_def_lang]
+      Policy-Counter-Status = [1]
+   +Policy-Counter-Status-Report
+      Policy-Counter-Identifier = [test20190914]
+      Policy-Counter-Status = [N]
+      Policy-Counter-Exp-Date = [4294967295]
+    Origin-State-Id = [189]
+   +Package-Information
+      Package-code = [Prepaid Default Price Plan for]
+      Package-Eff-date = [3820035527]
+      Package-Exp-date = [4294967295]
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-09 17:57:20.489000
+Sending PCRF Speed Check --> Session-Name: ludfi;PCRF;1615287440  # MDN: 6288295294349
+Initial Event PCRF Success with Session-Name: ludfi;PCRF;1615287440
+grep -n -e 'Session-Id\s=\s\[ludfi\;PCRF\;1615287440\]' -e 'Auth-Application-Id\s=\s\[3902001\]' log/ULOG20210128072341[48227]_PDE | tail | cut -d ':' -f1
+Terminate Event PCRF Success with Session-Name: ludfi;PCRF;1615287440
+PCRF Speed Checker Event Success ### ludfi;PCRF;1615287440 ### Result Code 2001
+    APN-Aggregate-Max-Bitrate-UL : 330000000
+    APN-Aggregate-Max-Bitrate-DL : 330000000
+    Session-Id = [ludfi;PCRF;1615287440]
+    Auth-Application-Id = [3902001]
+    Origin-Host = [pcrf11.zte.com.cn]
+    Origin-Realm = [zte.com.cn]
+    Result-Code = [2001]
+   +Policy-Counter-Status-Report
+      Policy-Counter-Identifier = [billing cycle id]
+      Policy-Counter-Status = [22087]
+   +Policy-Counter-Status-Report
+      Policy-Counter-Identifier = [cust_def_lang]
+      Policy-Counter-Status = [1]
+   +Policy-Counter-Status-Report
+      Policy-Counter-Identifier = [test20190914]
+      Policy-Counter-Status = [N]
+      Policy-Counter-Exp-Date = [4294967295]
+    Origin-State-Id = [189]
+   +Package-Information
+      Package-code = [Prepaid Default Price Plan for]
+      Package-Eff-date = [3820035527]
+      Package-Exp-date = [4294967295]
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-09 18:00:28.033000
+Sending PCRF Speed Check --> Session-Name: ludfi;PCRF;1615287628  # MDN: 6288295294349
+Initial Event PCRF Success with Session-Name: ludfi;PCRF;1615287628
+grep -n -e 'Session-Id\s=\s\[ludfi\;PCRF\;1615287628\]' -e 'Auth-Application-Id\s=\s\[3902001\]' log/ULOG20210128072341[48227]_PDE | tail | cut -d ':' -f1
+Terminate Event PCRF Success with Session-Name: ludfi;PCRF;1615287628
+PCRF Speed Checker Event Success ### ludfi;PCRF;1615287628 ### Result Code 2001
+    APN-Aggregate-Max-Bitrate-UL : 330000000
+    APN-Aggregate-Max-Bitrate-DL : 330000000
+    Session-Id = [ludfi;PCRF;1615287628]
+    Auth-Application-Id = [3902001]
+    Origin-Host = [pcrf11.zte.com.cn]
+    Origin-Realm = [zte.com.cn]
+    Result-Code = [2001]
+   +Policy-Counter-Status-Report
+      Policy-Counter-Identifier = [billing cycle id]
+      Policy-Counter-Status = [22087]
+   +Policy-Counter-Status-Report
+      Policy-Counter-Identifier = [cust_def_lang]
+      Policy-Counter-Status = [1]
+   +Policy-Counter-Status-Report
+      Policy-Counter-Identifier = [test20190914]
+      Policy-Counter-Status = [N]
+      Policy-Counter-Exp-Date = [4294967295]
+    Origin-State-Id = [189]
+   +Package-Information
+      Package-code = [Prepaid Default Price Plan for]
+      Package-Eff-date = [3820035527]
+      Package-Exp-date = [4294967295]
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-09 18:03:17.668000
+Sending PCRF Speed Check --> Session-Name: ludfi;PCRF;1615287797  # MDN: 6288295294349
+Initial Event PCRF Success with Session-Name: ludfi;PCRF;1615287797
+grep -n -e 'Session-Id\s=\s\[ludfi\;PCRF\;1615287797\]' -e 'Auth-Application-Id\s=\s\[3902001\]' log/ULOG20210128072341[48227]_PDE | tail | cut -d ':' -f1
+112269
+112828
+112965
+115099
+115363
+115364
+115466
+115467
+115633
+117384
+Terminate Event PCRF Success with Session-Name: ludfi;PCRF;1615287797
+PCRF Speed Checker Event Success ### ludfi;PCRF;1615287797 ### Result Code 2001
+    APN-Aggregate-Max-Bitrate-UL : 330000000
+    APN-Aggregate-Max-Bitrate-DL : 330000000
+    Session-Id = [ludfi;PCRF;1615287797]
+    Auth-Application-Id = [3902001]
+    Origin-Host = [pcrf11.zte.com.cn]
+    Origin-Realm = [zte.com.cn]
+    Result-Code = [2001]
+   +Policy-Counter-Status-Report
+      Policy-Counter-Identifier = [billing cycle id]
+      Policy-Counter-Status = [22087]
+   +Policy-Counter-Status-Report
+      Policy-Counter-Identifier = [cust_def_lang]
+      Policy-Counter-Status = [1]
+   +Policy-Counter-Status-Report
+      Policy-Counter-Identifier = [test20190914]
+      Policy-Counter-Status = [N]
+      Policy-Counter-Exp-Date = [4294967295]
+    Origin-State-Id = [189]
+   +Package-Information
+      Package-code = [Prepaid Default Price Plan for]
+      Package-Eff-date = [3820035527]
+      Package-Exp-date = [4294967295]
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-09 18:04:52.601000
+Sending PCRF Speed Check --> Session-Name: ludfi;PCRF;1615287892  # MDN: 6288295294349
+Initial Event PCRF Success with Session-Name: ludfi;PCRF;1615287892
+grep -n -e 'Session-Id\s=\s\[ludfi\;PCRF\;1615287892\]' -e 'Auth-Application-Id\s=\s\[3902001\]' log/ULOG20210128072341[48227]_PDE | tail | cut -d ':' -f1
+115467
+119323
+121367
+121659
+121923
+121924
+122026
+122027
+122193
+123944
+Terminate Event PCRF Success with Session-Name: ludfi;PCRF;1615287892
+PCRF Speed Checker Event Success ### ludfi;PCRF;1615287892 ### Result Code 2001
+    APN-Aggregate-Max-Bitrate-UL : 330000000
+    APN-Aggregate-Max-Bitrate-DL : 330000000
+    Session-Id = [ludfi;PCRF;1615287892]
+    Auth-Application-Id = [3902001]
+    Origin-Host = [pcrf11.zte.com.cn]
+    Origin-Realm = [zte.com.cn]
+    Result-Code = [2001]
+   +Policy-Counter-Status-Report
+      Policy-Counter-Identifier = [billing cycle id]
+      Policy-Counter-Status = [22087]
+   +Policy-Counter-Status-Report
+      Policy-Counter-Identifier = [cust_def_lang]
+      Policy-Counter-Status = [1]
+   +Policy-Counter-Status-Report
+      Policy-Counter-Identifier = [test20190914]
+      Policy-Counter-Status = [N]
+      Policy-Counter-Exp-Date = [4294967295]
+    Origin-State-Id = [189]
+   +Package-Information
+      Package-code = [Prepaid Default Price Plan for]
+      Package-Eff-date = [3820035527]
+      Package-Exp-date = [4294967295]
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-09 18:06:36.662000
+Sending PCRF Speed Check --> Session-Name: ludfi;PCRF;1615287996  # MDN: 6288295294349
+Initial Event PCRF Success with Session-Name: ludfi;PCRF;1615287996
+grep -n -e 'Session-Id\s=\s\[ludfi\;PCRF\;1615287996\]' -e 'Auth-Application-Id\s=\s\[3902001\]' log/ULOG20210128072341[48227]_PDE | tail | cut -d ':' -f1
+121924
+122027
+125883
+126164
+126428
+126429
+126531
+126532
+126698
+128449
+Terminate Event PCRF Success with Session-Name: ludfi;PCRF;1615287996
+PCRF Speed Checker Event Success ### ludfi;PCRF;1615287996 ### Result Code 2001
+    APN-Aggregate-Max-Bitrate-UL : 330000000
+    APN-Aggregate-Max-Bitrate-DL : 330000000
+    Session-Id = [ludfi;PCRF;1615287996]
+    Auth-Application-Id = [3902001]
+    Origin-Host = [pcrf11.zte.com.cn]
+    Origin-Realm = [zte.com.cn]
+    Result-Code = [2001]
+   +Policy-Counter-Status-Report
+      Policy-Counter-Identifier = [billing cycle id]
+      Policy-Counter-Status = [22087]
+   +Policy-Counter-Status-Report
+      Policy-Counter-Identifier = [cust_def_lang]
+      Policy-Counter-Status = [1]
+   +Policy-Counter-Status-Report
+      Policy-Counter-Identifier = [test20190914]
+      Policy-Counter-Status = [N]
+      Policy-Counter-Exp-Date = [4294967295]
+    Origin-State-Id = [189]
+   +Package-Information
+      Package-code = [Prepaid Default Price Plan for]
+      Package-Eff-date = [3820035527]
+      Package-Exp-date = [4294967295]
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-09 18:14:42.850000
+Sending PCRF Speed Check --> Session-Name: ludfi;PCRF;1615288482  # MDN: 6288295294349
+Initial Event PCRF Success with Session-Name: ludfi;PCRF;1615288482
+grep -n -e 'Session-Id\s=\s\[ludfi\;PCRF\;1615288482\]' -e 'Auth-Application-Id\s=\s\[3902001\]' log/ULOG20210128072341[48227]_PDE | tail | cut -d ':' -f1
+126429
+126532
+130388
+130669
+130933
+130934
+131036
+131037
+131203
+132954
+Terminate Event PCRF Success with Session-Name: ludfi;PCRF;1615288482
+PCRF Speed Checker Event Success ### ludfi;PCRF;1615288482 ### Result Code 2001
+    APN-Aggregate-Max-Bitrate-UL : 330000000
+    APN-Aggregate-Max-Bitrate-DL : 330000000
+    Session-Id = [ludfi;PCRF;1615288482]
+    Auth-Application-Id = [3902001]
+    Origin-Host = [pcrf11.zte.com.cn]
+    Origin-Realm = [zte.com.cn]
+    Result-Code = [2001]
+   +Policy-Counter-Status-Report
+      Policy-Counter-Identifier = [billing cycle id]
+      Policy-Counter-Status = [22087]
+   +Policy-Counter-Status-Report
+      Policy-Counter-Identifier = [cust_def_lang]
+      Policy-Counter-Status = [1]
+   +Policy-Counter-Status-Report
+      Policy-Counter-Identifier = [test20190914]
+      Policy-Counter-Status = [N]
+      Policy-Counter-Exp-Date = [4294967295]
+    Origin-State-Id = [189]
+   +Package-Information
+      Package-code = [Prepaid Default Price Plan for]
+      Package-Eff-date = [3820035527]
+      Package-Exp-date = [4294967295]
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-09 18:57:31.087000
+Sending PCRF Speed Check --> Session-Name: ludfi;PCRF;1615291049  # MDN: 6288295294349
+Event PCRF Speed Check success in Initial  ### ludfi;PCRF;1615291049 ### Result Code 2001
+    APN-Aggregate-Max-Bitrate-UL : 330000000
+    APN-Aggregate-Max-Bitrate-DL : 330000000
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-09 18:57:34.763000
+Sending PCRF Speed Check --> Session-Name: ludfi;PCRF;1615291049  # MDN: 6288295294349
+Event PCRF Speed Check success in Terminate  ### ludfi;PCRF;1615291049 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-09 19:02:59.716000
+Sending PCRF Speed Check --> Session-Name: ludfi;PCRF;1615291378  # MDN: 6288295294349
+Event PCRF Speed Check success in Initial  ### ludfi;PCRF;1615291378 ### Result Code 2001
+    APN-Aggregate-Max-Bitrate-UL : 330000000
+    APN-Aggregate-Max-Bitrate-DL : 330000000
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-09 19:03:03.461000
+Sending PCRF Speed Check --> Session-Name: ludfi;PCRF;1615291378  # MDN: 6288295294349
+Event PCRF Speed Check success in Terminate  ### ludfi;PCRF;1615291378 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-09 19:09:12.725000
+Sending PCRF Speed Check --> Session-Name: ludfi;PCRF;1615291751  # MDN: 6288295294349
+Event PCRF Speed Check success in Initial  ### ludfi;PCRF;1615291751 ### Result Code 2001
+    APN-Aggregate-Max-Bitrate-UL : 330000000
+    APN-Aggregate-Max-Bitrate-DL : 330000000
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-09 19:09:16.428000
+Sending PCRF Speed Check --> Session-Name: ludfi;PCRF;1615291751  # MDN: 6288295294349
+Event PCRF Speed Check success in Terminate  ### ludfi;PCRF;1615291751 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-16 11:05:04.685000
+Sending VOICE Roaming Usage--> Session-Name: ludfi;VOICE;1615867504  ## TYPE: MO  ## MDN A: 6288295294147  ## MDN B: 0103381335821050  ## TIME: 2021-03-16 11:05:04  ## DURATION: 8  ## Acc-NW-Info(ANI): 3GPP-E-UTRAN-TDD;utran-cell-id-3gpp=50215227161992600
+Full Voice Initial Event failed, Intermediate & Terminate event will be skip### ludfi;VOICE;1615867504 ### Result Code 5031
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-16 11:05:07.720000
+Sending VOICE Roaming Usage--> Session-Name: ludfi;VOICE;1615867507  ## TYPE: MT  ## MDN A: 6288295294147  ## MDN B: 0103381335821050  ## TIME: 2021-03-16 11:05:07  ## DURATION: 8  ## Acc-NW-Info(ANI): 3GPP-E-UTRAN-TDD;utran-cell-id-3gpp=50215227161992600
+Full Voice Initial Event failed, Intermediate & Terminate event will be skip### ludfi;VOICE;1615867507 ### Result Code 5031
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-16 11:11:11.161000
+Sending VOICE Roaming Usage--> Session-Name: ludfi;VOICE;1615867871  ## TYPE: MO  ## MDN A: 6288295294147  ## MDN B: 0103381335821050  ## TIME: 2021-03-16 11:11:11  ## DURATION: 8  ## Acc-NW-Info(ANI): 3GPP-E-UTRAN-TDD;utran-cell-id-3gpp=50215227161992600
+Full Voice Roaming Initial Event failed, Intermediate & Terminate event will be skip### ludfi;VOICE;1615867871 ### Result Code 5031
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-16 11:11:14.118000
+Sending VOICE Roaming Usage--> Session-Name: ludfi;VOICE;1615867874  ## TYPE: MT  ## MDN A: 6288295294147  ## MDN B: 0103381335821050  ## TIME: 2021-03-16 11:11:14  ## DURATION: 8  ## Acc-NW-Info(ANI): 3GPP-E-UTRAN-TDD;utran-cell-id-3gpp=50215227161992600
+Full Voice Roaming Initial Event failed, Intermediate & Terminate event will be skip### ludfi;VOICE;1615867874 ### Result Code 5031
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-16 11:16:38.751000
+Sending VOICE Roaming Usage--> Session-Name: ludfi;VOICE;1615868198  ## TYPE: MO  ## MDN A: 6288295291897  ## MDN B: 0103381335821050  ## TIME: 2021-03-16 11:16:38  ## DURATION: 8  ## Acc-NW-Info(ANI): 3GPP-E-UTRAN-TDD;utran-cell-id-3gpp=50215227161992600
+Full Voice Roaming Initial Event failed, Intermediate & Terminate event will be skip### ludfi;VOICE;1615868198 ### Result Code 4302
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-16 11:16:41.889000
+Sending VOICE Roaming Usage--> Session-Name: ludfi;VOICE;1615868201  ## TYPE: MT  ## MDN A: 6288295291897  ## MDN B: 0103381335821050  ## TIME: 2021-03-16 11:16:41  ## DURATION: 8  ## Acc-NW-Info(ANI): 3GPP-E-UTRAN-TDD;utran-cell-id-3gpp=50215227161992600
+Full Voice Roaming Initial Event failed, Intermediate & Terminate event will be skip### ludfi;VOICE;1615868201 ### Result Code 4302
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-16 11:17:22.289000
+Sending VOICE Roaming Usage--> Session-Name: ludfi;VOICE;1615868242  ## TYPE: MT  ## MDN A: 6288295291897  ## MDN B: 0103381335821050  ## TIME: 2021-03-16 11:17:22  ## DURATION: 8  ## Acc-NW-Info(ANI): 3GPP-E-UTRAN-TDD;utran-cell-id-3gpp=50215227161992600
+Full Voice Roaming Until Terminate Event success ### ludfi;VOICE;1615868242 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-16 11:17:58.182000
+Sending VOICE Roaming Usage--> Session-Name: ludfi;VOICE;1615868278  ## TYPE: MO  ## MDN A: 6288295291897  ## MDN B: 0103381335821050  ## TIME: 2021-03-16 11:17:58  ## DURATION: 8  ## Acc-NW-Info(ANI): 3GPP-E-UTRAN-TDD;utran-cell-id-3gpp=50215227161992600
+Full Voice Roaming Until Terminate Event success ### ludfi;VOICE;1615868278 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-16 11:18:01.358000
+Sending VOICE Roaming Usage--> Session-Name: ludfi;VOICE;1615868281  ## TYPE: MT  ## MDN A: 6288295291897  ## MDN B: 0103381335821050  ## TIME: 2021-03-16 11:18:01  ## DURATION: 8  ## Acc-NW-Info(ANI): 3GPP-E-UTRAN-TDD;utran-cell-id-3gpp=50215227161992600
+Full Voice Roaming Until Terminate Event success ### ludfi;VOICE;1615868281 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-16 11:26:52.900000
+Sending VOICE Roaming Usage--> Session-Name: ludfi;VOICE;1615868812  ## TYPE: MO  ## MDN A: 6288295291897  ## MDN B: 0103381335821050  ## TIME: 2021-03-16 11:26:52  ## DURATION: 8  ## Acc-NW-Info(ANI): 3GPP-E-UTRAN-TDD;utran-cell-id-3gpp=50215227161992600
+Full Voice Roaming Until Terminate Event success ### ludfi;VOICE;1615868812 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-16 11:26:55.910000
+Sending VOICE Roaming Usage--> Session-Name: ludfi;VOICE;1615868815  ## TYPE: MT  ## MDN A: 6288295291897  ## MDN B: 0103381335821050  ## TIME: 2021-03-16 11:26:55  ## DURATION: 8  ## Acc-NW-Info(ANI): 3GPP-E-UTRAN-TDD;utran-cell-id-3gpp=50215227161992600
+Full Voice Roaming Until Terminate Event success ### ludfi;VOICE;1615868815 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-16 12:42:54.535000
+Sending VOICE Roaming Usage--> Session-Name: ludfi;VOICE;1615873374  ## TYPE: MT  ## MDN A: 6288295291897  ## MDN B: 0103381335821050  ## TIME: 2021-03-16 12:42:54  ## DURATION: 8  ## Acc-NW-Info(ANI): 3GPP-E-UTRAN-TDD;utran-cell-id-3gpp=50215227161992600
+Full Voice Roaming Until Terminate Event success ### ludfi;VOICE;1615873374 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-16 16:47:27.371000
+Sending VOICE Roaming Usage--> Session-Name: ludfi;VOICE;1615888047  ## TYPE: MT  ## MDN A: 6288295291897  ## MDN B: 0103381335821050  ## TIME: 2021-03-16 16:47:27  ## DURATION: 8  ## Acc-NW-Info(ANI): 3GPP-E-UTRAN-TDD;utran-cell-id-3gpp=50215227161992600
+Full Voice Roaming Until Terminate Event success ### ludfi;VOICE;1615888047 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-16 16:47:30.296000
+Sending SMS Roaming Usage--> Session-Name: ludfi;SMS;1615888050  ## TYPE: MO  ## MDN A: 6288295291897  ## MDN B: 0103381335821050  ## TIME: 2021-03-16 16:47:30  ## ADDRESS-DATA: 110103381335821050
+SMS Roaming Event success ### ludfi;SMS;1615888050 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-16 16:47:33.331000
+Sending SMS Roaming Usage--> Session-Name: ludfi;SMS;1615888053  ## TYPE: MT  ## MDN A: 6288295291897  ## MDN B: 7878  ## TIME: 2021-03-16 16:47:33  ## ADDRESS-DATA: 116288295291897
+SMS Roaming Event success ### ludfi;SMS;1615888053 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-16 16:52:34.994000
+Sending VOICE Roaming Usage--> Session-Name: ludfi;VOICE;1615888354  ## TYPE: MT  ## MDN A: 6288295291897  ## MDN B: 0103381335821050  ## TIME: 2021-03-16 16:52:34  ## DURATION: 8  ## Acc-NW-Info(ANI): 3GPP-E-UTRAN-TDD;utran-cell-id-3gpp=50215227161992600
+Full Voice Roaming Until Terminate Event success ### ludfi;VOICE;1615888354 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-16 16:52:37.977000
+Sending SMS Roaming Usage--> Session-Name: ludfi;SMS;1615888357  ## TYPE: MO  ## MDN A: 6288295291897  ## MDN B: 0103381335821050  ## TIME: 2021-03-16 16:52:37  ## ADDRESS-DATA: 110103381335821050
+SMS Roaming Event success ### ludfi;SMS;1615888357 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-16 16:52:40.907000
+Sending SMS Roaming Usage--> Session-Name: ludfi;SMS;1615888360  ## TYPE: MT  ## MDN A: 6288295291897  ## MDN B: 7878  ## TIME: 2021-03-16 16:52:40  ## ADDRESS-DATA: 116288295291897
+SMS Roaming Event success ### ludfi;SMS;1615888360 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-16 16:56:28.682000
+Sending VOICE Roaming Usage--> Session-Name: ludfi;VOICE;1615888588  ## TYPE: MO  ## MDN A: 6288295291897  ## MDN B: 0103381335821050  ## TIME: 2021-03-16 16:56:28  ## DURATION: 8  ## Acc-NW-Info(ANI): 3GPP-E-UTRAN-TDD;utran-cell-id-3gpp=50215227161992600
+Full Voice Roaming Until Terminate Event success ### ludfi;VOICE;1615888588 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-16 16:56:31.685000
+Sending VOICE Roaming Usage--> Session-Name: ludfi;VOICE;1615888591  ## TYPE: MT  ## MDN A: 6288295291897  ## MDN B: 0103381335821050  ## TIME: 2021-03-16 16:56:31  ## DURATION: 8  ## Acc-NW-Info(ANI): 3GPP-E-UTRAN-TDD;utran-cell-id-3gpp=50215227161992600
+Full Voice Roaming Until Terminate Event success ### ludfi;VOICE;1615888591 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-16 16:56:34.696000
+Sending SMS Roaming Usage--> Session-Name: ludfi;SMS;1615888594  ## TYPE: MO  ## MDN A: 6288295291897  ## MDN B: 0103381335821050  ## TIME: 2021-03-16 16:56:34  ## ADDRESS-DATA: 110103381335821050
+SMS Roaming Event success ### ludfi;SMS;1615888594 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-16 16:56:37.710000
+Sending SMS Roaming Usage--> Session-Name: ludfi;SMS;1615888597  ## TYPE: MT  ## MDN A: 6288295291897  ## MDN B: 7878  ## TIME: 2021-03-16 16:56:37  ## ADDRESS-DATA: 116288295291897
+SMS Roaming Event success ### ludfi;SMS;1615888597 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-16 17:57:45.865000
+Sending VOICE Roaming Usage--> Session-Name: ludfi;VOICE;1615892265  ## TYPE: MT  ## MDN A: 6288295291897  ## MDN B: 0103381335821050  ## TIME: 2021-03-16 17:57:45  ## DURATION: 8  ## Acc-NW-Info(ANI): 3GPP-E-UTRAN-TDD;utran-cell-id-3gpp=50215227161992600
+Full Voice Roaming Until Terminate Event success ### ludfi;VOICE;1615892265 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-16 17:57:48.717000
+Sending SMS Roaming Usage--> Session-Name: ludfi;SMS;1615892268  ## TYPE: MO  ## MDN A: 6288295291897  ## MDN B: 0103381335821050  ## TIME: 2021-03-16 17:57:48  ## ADDRESS-DATA: 110103381335821050
+SMS Roaming Event success ### ludfi;SMS;1615892268 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-16 17:57:51.871000
+Sending SMS Roaming Usage--> Session-Name: ludfi;SMS;1615892271  ## TYPE: MT  ## MDN A: 6288295291897  ## MDN B: 7878  ## TIME: 2021-03-16 17:57:51  ## ADDRESS-DATA: 116288295291897
+SMS Roaming Event success ### ludfi;SMS;1615892271 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-16 18:00:30.344000
+Sending VOICE Roaming Usage--> Session-Name: ludfi;VOICE;1615892430  ## TYPE: MO  ## MDN A: 6288295291897  ## MDN B: 0103381335821050  ## TIME: 2021-03-16 18:00:30  ## DURATION: 8  ## Acc-NW-Info(ANI): 3GPP-E-UTRAN-TDD;utran-cell-id-3gpp=50215227161992600
+Full Voice Roaming Until Terminate Event success ### ludfi;VOICE;1615892430 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-16 18:00:33.272000
+Sending VOICE Roaming Usage--> Session-Name: ludfi;VOICE;1615892433  ## TYPE: MT  ## MDN A: 6288295291897  ## MDN B: 0103381335821050  ## TIME: 2021-03-16 18:00:33  ## DURATION: 8  ## Acc-NW-Info(ANI): 3GPP-E-UTRAN-TDD;utran-cell-id-3gpp=50215227161992600
+Full Voice Roaming Until Terminate Event success ### ludfi;VOICE;1615892433 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-16 18:00:36.298000
+Sending SMS Roaming Usage--> Session-Name: ludfi;SMS;1615892436  ## TYPE: MO  ## MDN A: 6288295291897  ## MDN B: 0103381335821050  ## TIME: 2021-03-16 18:00:36  ## ADDRESS-DATA: 110103381335821050
+SMS Roaming Event success ### ludfi;SMS;1615892436 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-16 18:00:39.304000
+Sending SMS Roaming Usage--> Session-Name: ludfi;SMS;1615892439  ## TYPE: MT  ## MDN A: 6288295291897  ## MDN B: 7878  ## TIME: 2021-03-16 18:00:39  ## ADDRESS-DATA: 116288295291897
+SMS Roaming Event success ### ludfi;SMS;1615892439 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-18 10:00:16.020000
+Sending VOICE Roaming Usage--> Session-Name: ludfi;VOICE;1616036416  ## TYPE: MO  ## MDN A: 6288295291897  ## MDN B: 0103381335821050  ## TIME: 2021-03-18 10:00:16  ## DURATION: 8  ## Acc-NW-Info(ANI): 3GPP-E-UTRAN-TDD;utran-cell-id-3gpp=50215227161992600
+Full Voice Roaming Initial Event failed, Intermediate & Terminate event will be skip### ludfi;VOICE;1616036416 ### Result Code 4301
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-18 10:00:20.917000
+Sending VOICE Roaming Usage--> Session-Name: ludfi;VOICE;1616036420  ## TYPE: MT  ## MDN A: 6288295291897  ## MDN B: 0103381335821050  ## TIME: 2021-03-18 10:00:20  ## DURATION: 8  ## Acc-NW-Info(ANI): 3GPP-E-UTRAN-TDD;utran-cell-id-3gpp=50215227161992600
+Full Voice Roaming Until Terminate Event success ### ludfi;VOICE;1616036420 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-18 10:00:25.995000
+Sending SMS Roaming Usage--> Session-Name: ludfi;SMS;1616036425  ## TYPE: MO  ## MDN A: 6288295291897  ## MDN B: 0103381335821050  ## TIME: 2021-03-18 10:00:25  ## ADDRESS-DATA: 110103381335821050
+SMS Roaming Event failed, Please check from by manual run### ludfi;SMS;1616036425 ### Result Code 4301
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-18 10:00:30.965000
+Sending SMS Roaming Usage--> Session-Name: ludfi;SMS;1616036430  ## TYPE: MT  ## MDN A: 6288295291897  ## MDN B: 7878  ## TIME: 2021-03-18 10:00:30  ## ADDRESS-DATA: 116288295291897
+SMS Roaming Event success ### ludfi;SMS;1616036430 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-19 15:22:59.006000
+Sending VOICE Roaming Usage--> Session-Name: ludfi;VOICE;1616142179  ## TYPE: MO  ## MDN A: 6288295291897  ## MDN B: 0103381335821050  ## TIME: 2021-03-19 15:22:59  ## DURATION: 8  ## Acc-NW-Info(ANI): 3GPP-E-UTRAN-TDD;utran-cell-id-3gpp=50215227161992600
+Full Voice Roaming Initial Event failed, Intermediate & Terminate event will be skip### ludfi;VOICE;1616142179 ### Result Code 4301
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-19 15:23:00.373000
+Sending VOICE Roaming Usage--> Session-Name: ludfi;VOICE;1616142180  ## TYPE: MT  ## MDN A: 6288295291897  ## MDN B: 0103381335821050  ## TIME: 2021-03-19 15:23:00  ## DURATION: 8  ## Acc-NW-Info(ANI): 3GPP-E-UTRAN-TDD;utran-cell-id-3gpp=50215227161992600
+Full Voice Roaming Until Terminate Event success ### ludfi;VOICE;1616142180 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-19 15:23:05.354000
+Sending SMS Roaming Usage--> Session-Name: ludfi;SMS;1616142185  ## TYPE: MO  ## MDN A: 6288295291897  ## MDN B: 0103381335821050  ## TIME: 2021-03-19 15:23:05  ## ADDRESS-DATA: 110103381335821050
+SMS Roaming Event failed, Please check from by manual run### ludfi;SMS;1616142185 ### Result Code 4301
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Execution at  2021-03-19 15:23:10.266000
+Sending SMS Roaming Usage--> Session-Name: ludfi;SMS;1616142190  ## TYPE: MT  ## MDN A: 6288295291897  ## MDN B: 7878  ## TIME: 2021-03-19 15:23:10  ## ADDRESS-DATA: 116288295291897
+SMS Roaming Event success ### ludfi;SMS;1616142190 ### Result Code 2001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Unknown command 0
+Execution at  2021-03-22 14:53:52.948000
+Sending SMS Roaming Usage--> Session-Name: ludfi;SMS;1616399632  ## TYPE: MO  ## MDN A: 6288295291897  ## MDN B: 0103381335821050  ## TIME: 2021-03-22 14:53:52  ## ADDRESS-DATA: 110103381335821050
+SMS Roaming Event failed, Please check from by manual run### ludfi;SMS;1616399632 ### Result Code -1
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Unknown command 0
+Execution at  2021-03-22 14:56:40.740000
+Sending SMS Roaming Usage--> Session-Name: ludfi;SMS;1616399800  ## TYPE: MO  ## MDN A: 6288295291897  ## MDN B: 0103381335821050  ## TIME: 2021-03-22 14:56:40  ## ADDRESS-DATA: 110103381335821050
+SMS Roaming Event failed, Please check from by manual run### ludfi;SMS;1616399800 ### Result Code -1
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Unknown command 0
+Execution at  2021-03-22 14:57:11.422000
+Sending SMS Roaming Usage--> Session-Name: ludfi;SMS;1616399831  ## TYPE: MO  ## MDN A: 6288295291897  ## MDN B: 0103381335821050  ## TIME: 2021-03-22 14:57:11  ## ADDRESS-DATA: 110103381335821050
+SMS Roaming Event failed, Please check from by manual run### ludfi;SMS;1616399831 ### Result Code -1
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Unknown command 0
+Execution at  2021-03-22 15:04:21.153000
+Sending SMS Roaming Usage--> Session-Name: ludfi;SMS;1616400261  ## TYPE: MO  ## MDN A: 6288295291897  ## MDN B: 0103381335821050  ## TIME: 2021-03-22 15:04:21  ## ADDRESS-DATA: 110103381335821050
+SMS Roaming Event failed, Please check from by manual run### ludfi;SMS;1616400261 ### Result Code -1
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Unknown command 0
+Execution at  2021-03-22 15:05:04.541000
+Sending SMS Roaming Usage--> Session-Name: ludfi;SMS;1616400304  ## TYPE: MO  ## MDN A: 6288295291897  ## MDN B: 0103381335821050  ## TIME: 2021-03-22 15:05:04  ## ADDRESS-DATA: 110103381335821050
+SMS Roaming Event failed, Please check from by manual run### ludfi;SMS;1616400304 ### Result Code -1
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Unknown command 0
+Execution at  2021-03-22 15:56:17.309000
+Sending SMS Roaming Usage--> Session-Name: ludfi;SMS;1616403377  ## TYPE: MO  ## MDN A: 6288295291897  ## MDN B: 0103381335821050  ## TIME: 2021-03-22 15:56:17  ## ADDRESS-DATA: 110103381335821050
+SMS Roaming Event failed, Please check from by manual run### ludfi;SMS;1616403377 ### Result Code -1
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Unknown command 0
+Execution at  2021-03-22 15:56:49.571000
+Sending SMS Roaming Usage--> Session-Name: ludfi;SMS;1616403409  ## TYPE: MO  ## MDN A: 6288295291897  ## MDN B: 0103381335821050  ## TIME: 2021-03-22 15:56:49  ## ADDRESS-DATA: 110103381335821050
+SMS Roaming Event failed, Please check from by manual run### ludfi;SMS;1616403409 ### Result Code -1
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Unknown command 0
+Execution at  2021-03-22 16:03:40.383000
+Sending SMS Roaming Usage--> Session-Name: ludfi;SMS;1616403820  ## TYPE: MO  ## MDN A: 6288295291897  ## MDN B: 0103381335821050  ## TIME: 2021-03-22 16:03:40  ## ADDRESS-DATA: 110103381335821050
+SMS Roaming Event failed, Please check from by manual run### ludfi;SMS;1616403820 ### Result Code -1
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Unknown command 0
+Execution at  2021-03-22 16:08:26.372000
+Sending SMS Roaming Usage--> Session-Name: ludfi;SMS;1616404106  ## TYPE: MO  ## MDN A: 6288295291897  ## MDN B: 0103381335821050  ## TIME: 2021-03-22 16:08:26  ## ADDRESS-DATA: 110103381335821050
+SMS Roaming Event failed, Please check from by manual run### ludfi;SMS;1616404106 ### Result Code -1
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+<<<<<<< HEAD
+Unknown command 0
+Execution at  2021-03-22 18:30:15.764000
+Sending SMS Roaming Usage--> Session-Name: ludfi;SMS;1616412615  ## TYPE: MO  ## MDN A: 6288295291897  ## MDN B: 0103381335821050  ## TIME: 2021-03-22 18:30:15  ## ADDRESS-DATA: 110103381335821050
+SMS Roaming Event failed, Please check from by manual run### ludfi;SMS;1616412615 ### Result Code -1
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Unknown command 0
+Execution at  2021-03-22 18:38:03.936000
+Sending SMS Roaming Usage--> Session-Name: ludfi;SMS;1616413083  ## TYPE: MO  ## MDN A: 6288295291897  ## MDN B: 0103381335821050  ## TIME: 2021-03-22 18:38:03  ## ADDRESS-DATA: 110103381335821050
+SMS Roaming Event failed, Please check from by manual run### ludfi;SMS;1616413083 ### Result Code -1
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Unknown command 0
+Execution at  2021-03-22 18:42:26.165000
+Sending SMS Roaming Usage--> Session-Name: ludfi;SMS;1616413346  ## TYPE: MO  ## MDN A: 6288295291897  ## MDN B: 0103381335821050  ## TIME: 2021-03-22 18:42:26  ## ADDRESS-DATA: 110103381335821050
+SMS Roaming Event failed, Please check from by manual run### ludfi;SMS;1616413346 ### Result Code -1
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Unknown command 0
+Execution at  2021-03-22 18:42:31.312000
+Sending SMS Roaming Usage--> Session-Name: ludfi;SMS;1616413351  ## TYPE: MT  ## MDN A: 6288295291897  ## MDN B: 0103381335821050  ## TIME: 2021-03-22 18:42:31  ## ADDRESS-DATA: 110103381335821050
+SMS Roaming Event failed, Please check from by manual run### ludfi;SMS;1616413351 ### Result Code -1
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+=======
+>>>>>>> branch 'development' of https://gitlab.smartfren.com/IT-ITDev/devtransauto/sf-automation-billing.git
+Unknown command 0
+Execution at  2021-03-24 12:59:28.822000
+Sending VOICE Usage--> Session-Name: ludfi;VOICE;1616565568  ## MDN A: 6288295294368  ## MDN B: 6288295291145  ## TIME: 2021-03-24 12:59:28  ## DURATION: 10  ## Acc-NW-Info(ANI): 0
+Full Voice Initial Event failed, Intermediate & Terminate event will be skip### ludfi;VOICE;1616565568 ### Result Code -1
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Unknown command 0
+Execution at  2021-03-24 12:59:34.253000
+Sending SMS Usage--> Session-Name: ludfi;SMS;1616565574  ## MDN A: 6288295294368  ## MDN B: 6288295291145  ## TIME: 2021-03-24 12:59:34
+SMS Event failed, Please check from by manual run### ludfi;SMS;1616565574 ### Result Code -1
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Unknown command 0
+Execution at  2021-03-24 12:59:39.102000
+Sending DATA Usage --> Session-Name: ludfiDATA;1616565579  # MDN: 6288295294368  # TIME: 2021-03-24 12:59:39  # RG: 4  # User-Equip: 867345 0103865801  # UsageInput: 34133
+Full GPRS Initial Event failed, Intermediate & Terminate event will be skip### ludfiDATA;1616565579 ### Result Code -1
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Unknown command 0
+Execution at  2021-03-24 12:59:43.967000
+Sending VOICE Roaming Usage--> Session-Name: ludfi;VOICE;1616565583  ## TYPE: MO  ## MDN A: 6288295294368  ## MDN B: 6288295291145  ## TIME: 2021-03-24 12:59:43  ## DURATION: 10  ## Acc-NW-Info(ANI): 3GPP-E-UTRAN-TDD;utran-cell-id-3gpp=50215227161992600
+Full Voice Roaming Initial Event failed, Intermediate & Terminate event will be skip### ludfi;VOICE;1616565583 ### Result Code -1
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Unknown command 0
+Execution at  2021-03-24 12:59:49.161000
+Sending VOICE Roaming Usage--> Session-Name: ludfi;VOICE;1616565589  ## TYPE: MT  ## MDN A: 6288295294368  ## MDN B: 6288295291145  ## TIME: 2021-03-24 12:59:49  ## DURATION: 10  ## Acc-NW-Info(ANI): 3GPP-E-UTRAN-TDD;utran-cell-id-3gpp=50215227161992600
+Full Voice Roaming Initial Event failed, Intermediate & Terminate event will be skip### ludfi;VOICE;1616565589 ### Result Code -1
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Unknown command 0
+Execution at  2021-03-24 12:59:54.121000
+Sending SMS Roaming Usage--> Session-Name: ludfi;SMS;1616565594  ## TYPE: MO  ## MDN A: 6288295294368  ## MDN B: 0103381335821050  ## TIME: 2021-03-24 12:59:54  ## ADDRESS-DATA: 110103381335821050
+SMS Roaming Event failed, Please check from by manual run### ludfi;SMS;1616565594 ### Result Code -1
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Unknown command 0
+Execution at  2021-03-24 12:59:59.674000
+Sending SMS Roaming Usage--> Session-Name: ludfi;SMS;1616565599  ## TYPE: MT  ## MDN A: 6288295294368  ## MDN B: 0103381335821050  ## TIME: 2021-03-24 12:59:59  ## ADDRESS-DATA: 110103381335821050
+SMS Roaming Event failed, Please check from by manual run### ludfi;SMS;1616565599 ### Result Code -1
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Unknown command 0
+------------------------------
+Execution at  2021-03-24 13:00:04.081000
+Sending PCRF Speed Check --> Session-Name: ludfi;PCRF;1616565603  # MDN: 6288295294368
+Unknown command 0
+------------------------------
+Execution at  2021-03-24 15:33:09.025000
+Sending VOICE Roaming Usage--> Session-Name: ludfi;VOICE;1616574789  ## TYPE: MO  ## MDN A: 6288295294368  ## MDN B: 6288295291145  ## TIME: 2021-03-24 15:33:09  ## DURATION: 10  ## Acc-NW-Info(ANI): 3GPP-E-UTRAN-TDD;utran-cell-id-3gpp=50215227161992600
+Full Voice Roaming Initial Event failed, Intermediate & Terminate event will be skip### ludfi;VOICE;1616574789 ### Result Code -1
+------------------------------
+Unknown command 0
+------------------------------
+Execution at  2021-03-24 15:33:51.722000
+Sending VOICE Roaming Usage--> Session-Name: ludfi;VOICE;1616574831  ## TYPE: MO  ## MDN A: 6288295294368  ## MDN B: 6288295291145  ## TIME: 2021-03-24 15:33:51  ## DURATION: 10  ## Acc-NW-Info(ANI): 3GPP-E-UTRAN-TDD;utran-cell-id-3gpp=50215227161992600
+Full Voice Roaming Initial Event failed, Intermediate & Terminate event will be skip### ludfi;VOICE;1616574831 ### Result Code -1
+------------------------------

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>PROD</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Home page of Zsmart</description>
+      <initValue>'http://Zsmart.com'</initValue>
+      <name>g_baseURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>page</description>
+      <initValue>'/page'</initValue>
+      <name>g_page</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

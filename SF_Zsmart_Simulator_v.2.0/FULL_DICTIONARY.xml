@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Based on the Wireshark dictionary.xml 2011-07-09 -->
+<!-- Unified command codes to use unique name 2012 May 08 -->
+<!-- EAP codes moved to separate dictionary 2012 May 13 -->
+<!-- IP and IPAddress are encoded differently 2012 Nov 19 -->
+<!-- Last change 2012 Nov 19 -->
+<dictionary>
+	<!-- *********************** Diameter Typedefs ************************* -->
+	<!-- Basic types are OctetString, UTF8String, Unsigned32, Integer32 -->
+	<!-- Unsigned64, Integer64, Float32, Float64, IPAddress, IP Time, -->
+	<!-- Enumerated is handled internally as Integer32 -->
+	<!-- IP is NOT the same as IPAddress -->
+	<!-- IP is 4 byte IP Address, IPAddress is 6 byte -->
+	<typedef name="DiameterIdentity" type="OctetString"/>
+	<typedef name="IPFilterRule" type="OctetString"/>
+	<typedef name="QOSFilterRule" type="OctetString"/>
+	<typedef name="MIPRegistrationRequest" type="OctetString"/>
+	<typedef name="DiameterURI" type="UTF8String"/>
+	<typedef name="VendorId" type="Unsigned32"/>
+	<typedef name="AppId" type="Integer32"/>
+	<!-- *********************** Diameter Commands ************************* -->
+	<command code="257" name="Capabilities-Exchange"/>
+	<command code="258" name="Re-Auth"/>
+	<command code="260" name="AA-Mobile-Node"/>
+	<command code="262" name="Home-Agent-MIP"/>
+	<command code="265" name="AA"/>
+	<command code="268" name="Diameter-EAP"/>
+	<command code="271" name="Accounting"/>
+	<command code="272" name="Credit-Control"/>
+	<command code="274" name="Abort-Session"/>
+	<command code="275" name="Session-Termination"/>
+	<command code="280" name="Device-Watchdog"/>
+	<command code="282" name="Disconnect-Peer"/>
+	<command code="905" name="Credit-Balance"/>
+	<command code="904" name="Debit-Balance"/>
+	<command code="283" name="SIP-User-Authorization"/>
+	<command code="284" name="SIP-Server-Assignment"/>
+	<command code="285" name="SIP-Location-Info"/>
+	<command code="286" name="SIP-Multimedia-Auth"/>
+	<command code="287" name="SIP-Registration-Termination"/>
+	<command code="288" name="SIP-Push-Profile"/>
+	<command code="300" name="User-Authorization"/>
+	<command code="301" name="Server-Assignment"/>
+	<command code="302" name="Location-Info"/>
+	<command code="303" name="Multimedia-Auth"/>
+	<command code="304" name="Registration-Termination"/>
+	<command code="305" name="Push-Profile"/>
+	<command code="306" name="User-Data"/>
+	<command code="307" name="Profile-Update"/>
+	<command code="308" name="Subscribe-Notifications"/>
+	<command code="309" name="Push-Notification"/>
+	<command code="310" name="Bootstraping-Info"/>
+	<command code="311" name="Message-Process"/>
+	<command code="316" name="3GPP-Update-Location"/>
+	<command code="317" name="3GPP-Cancel-Location"/>
+	<command code="318" name="3GPP-Authentication-Information"/>
+	<command code="319" name="3GPP-Insert-Subscriber-Data"/>
+	<command code="320" name="3GPP-Delete-Subscriber-Data"/>
+	<command code="321" name="3GPP-Purge-UE"/>
+	<command code="322" name="3GPP-Reset"/>
+	<command code="323" name="3GPP-Notify"/>
+	<command code="324" name="3GPP-ME-Identity-Check"/>
+	<command code="325" name="MIP6"/>
+	<command code="8388635" name="Spending-Limit"/>
+	<!-- *********************** Dictionary Vendors ************************ -->
+	<vendor code="0" vendor-id="0" name="0"/>
+	<vendor code="9" vendor-id="Cisco" name="9"/>
+	<vendor code="11" vendor-id="HP" name="11"/>
+	<vendor code="42" vendor-id="Sun" name="42"/>
+	<vendor code="62" vendor-id="Merit" name="62"/>
+	<vendor code="11580" vendor-id="Amdocs" name="11580"/>
+	<vendor code="94" vendor-id="Nokia" name="94"/>
+	<vendor code="161" vendor-id="Motorola" name="161"/>
+	<vendor code="193" vendor-id="Ericsson" name="193"/>
+	<vendor code="311" vendor-id="MS" name="311"/>
+	<vendor code="429" vendor-id="USR" name="429"/>
+	<vendor code="2352" vendor-id="Redback" name="2352"/>
+	<vendor code="2636" vendor-id="Juniper" name="2636"/>
+	<vendor code="2637" vendor-id="Nortel" name="2637"/>
+	<vendor code="2937" vendor-id="Deutsche_Telekom_AG" name="2937"/>
+	<vendor code="3199" vendor-id="Shasta" name="3199"/>
+	<vendor code="3561" vendor-id="DSLForum" name="3561"/>
+	<vendor code="4329" vendor-id="Siemens" name="4329"/>
+	<vendor code="5535" vendor-id="TGPP2" name="5535"/>
+	<vendor code="8164" vendor-id="SN" name="8164"/>
+	<vendor code="9421" vendor-id="VFD2" name="9421"/>
+	<vendor code="10415" vendor-id="10415" name="10415"/>
+	<vendor code="10548" vendor-id="Netzwert" name="10548"/>
+	<vendor code="10923" vendor-id="EriJun" name="10923"/>
+	<vendor code="12645" vendor-id="Vodafone" name="12645"/>
+	<vendor code="12951" vendor-id="Verizon" name="12951"/>
+	<vendor code="13019" vendor-id="ETSI" name="13019"/>
+	<vendor code="13568" vendor-id="NeuStar" name="13568"/>
+	<vendor code="14122" vendor-id="WFA" name="14122"/>
+	<vendor code="15573" vendor-id="Apertio" name="15573"/>
+	<vendor code="24757" vendor-id="WiMAX" name="24757"/>
+	<vendor code="28458" vendor-id="NSN" name="28458"/>
+	<vendor code="29168" vendor-id="TMO" name="29168"/>
+	<vendor code="2011" vendor-id="2011" name="2011"/>
+	<vendor code="3902" vendor-id="3902" name="3902"/>
+	<vendor code="81000" vendor-id="81000" name="81000"/>
+	<avp code="1000" type="Unsigned32" name="Bearer-Usage" vendor-id="10415" mandatory="must"/>
+	<avp code="1003" type="string" name="a number" mandatory="must"/>
+	<avp code="1004" type="string" name="b number" mandatory="must"/>
+	<avp code="1006" type="string" name="Originator-Location-Code"/>
+	<avp code="1008" type="Unsigned32" name="Offline" vendor-id="10415" mandatory="must"/>
+	<avp code="1009" type="Unsigned32" name="Online" vendor-id="10415" mandatory="must"/>
+	<avp code="1010" type="string" name="SMSC-ID"/>
+	<avp code="1018" type="Unsigned32" name="Granted-Unit-Value" mandatory="must"/>
+	<avp code="1019" type="Integer32" name="Granted-Unit-Type" mandatory="must"/>
+	<avp code="1020" type="Integer32" name="Granted-Unit-Precision"/>
+	<avp code="1021" type="Unsigned32" name="Bearer-Operation" vendor-id="10415" mandatory="must"/>
+	<avp code="1022" type="string" name="low balance warning indicator"/>
+	<avp code="1023" type="Unsigned32" name="balance expiration date"/>
+	<avp code="1024" type="Unsigned32" name="Network-Request-Support" vendor-id="10415" mandatory="must"/>
+	<avp code="1025" type="string" name="last reservation indicator"/>
+	<avp code="1026" type="Unsigned32" name="Charge-Unit-Value" mandatory="must"/>
+	<avp code="1027" type="Integer32" name="Charge-Unit-Precision" mandatory="must"/>
+	<avp code="1028" type="Integer32" name="Charge-Unit-Type" mandatory="must"/>
+	<avp code="1029" type="Integer32" name="Charged-Amount" mandatory="must"/>
+	<avp code="1030" type="Integer32" name="Charged-Amount-Precision" mandatory="must"/>
+	<avp code="1031" type="Integer32" name="Remaining-Balance-Amount" mandatory="must"/>
+	<avp code="1032" type="Integer32" name="Remaining-Balance-Amount-Precision" mandatory="must"/>
+	<avp code="1041" type="Integer32" name="Message-Type-Code" mandatory="must"/>
+	<avp code="1042" type="string" name="MSC-Address"/>
+	<avp code="1048" type="Integer32" name="Treatment Flag"/>
+	<avp code="1049" type="Integer32" name="Treatment-Type"/>
+	<avp code="1050" type="Integer32" name="Treatment-Language"/>
+	<avp code="1051" type="Integer32" name="Treatment-Value"/>
+	<avp code="1061" type="Integer32" name="DOX-Number-Of-Tones"/>
+	<avp code="1062" type="Integer32" name="DOX-Tone-Unit-Type"/>
+	<avp code="1063" type="Integer32" name="DOX-Tone-Time-1"/>
+	<avp code="1064" type="Integer32" name="DOX-Tone-Time-2"/>
+	<avp code="1501" type="string" name="Time-Zone"/>
+	<avp code="23" type="string" name="3GPP-MS-TimeZone" vendor-id="0" mandatory="must"/>
+	<avp code="25020" type="Grouped" name="Called-Party-ID" vendor-id="0" mandatory="must"/>
+	<avp code="25021" type="string" name="Called-Party-ID-Data" vendor-id="0" mandatory="0"/>
+	<avp code="25022" type="Unsigned32" name="Called-Party-ID-Type" vendor-id="0" mandatory="0"/>
+	<avp code="257" type="bytes" name="Host-IP-Address" vendor-id="0" mandatory="must"/>
+	<avp code="257" type="IP" name="Host-IP-Address"/>
+	<avp code="259" type="Integer32" name="Acct-Application-Id"/>
+	<avp code="263" type="UTF8String" name="Session-ID"/>
+	<avp code="264" type="string" name="Origin-Host" vendor-id="0" mandatory="must"/>
+	<avp code="282" type="string" name="Route-Record" vendor-id="0" mandatory="must"/>
+	<avp code="265" type="Unsigned32" name="Supported-Vendor-Id"/>
+	<avp code="266" type="Unsigned32" name="Vendor-ID" vendor-id="0" mandatory="must"/>
+	<avp code="266" type="Unsigned32" name="Vendor-Id"/>
+	<avp code="267" type="Unsigned32" name="Firmware-Revision" vendor-id="0"/>
+	<avp code="267" type="Unsigned32" name="Firmware-Revision"/>
+	<avp code="268" type="Unsigned32" name="Result-Code" vendor-id="0" mandatory="must"/>
+	<avp code="268" type="Unsigned32" name="Result-Code"/>
+	<avp code="269" type="string" name="Product-Name" vendor-id="0"/>
+	<avp code="269" type="string" name="Product-Name"/>
+	<avp code="27101" type="string" name="CUG-MSISDN" vendor-id="0" mandatory="0"/>
+	<avp code="27102" type="Integer32" name="CUG-Ind" vendor-id="0" mandatory="0"/>
+	<avp code="273" type="Integer32" name="Disconnect-Cause" vendor-id="0" mandatory="must"/>
+	<avp code="273" type="Integer32" name="Disconnect-Cause"/>
+	<avp code="283" type="string" name="Destination-Realm" vendor-id="0" mandatory="must"/>
+	<avp code="295" type="Integer32" name="Termination-Cause" vendor-id="0" mandatory="must"/>
+	<avp code="296" type="string" name="Origin-Realm" vendor-id="0" mandatory="must"/>
+	<avp code="299" type="Unsigned32" name="Inband-Security-Id" vendor-id="0" mandatory="must"/>
+	<avp code="413" type="Grouped" name="CC-Money" vendor-id="0" mandatory="must"/>
+	<avp code="415" type="Unsigned32" name="CC-Request-Number" vendor-id="0" mandatory="must"/>
+	<avp code="425" type="Unsigned32" name="uA-Currency-Code" vendor-id="0" mandatory="0"/>
+	<avp code="431" type="Grouped" name="Granted-Service-Unit" vendor-id="0" mandatory="must"/>
+	<avp code="439" type="Integer32" name="Service-Identifier" vendor-id="0" mandatory="must"/>
+	<avp code="443" type="Grouped" name="Subscription-ID" vendor-id="0" mandatory="must"/>
+	<avp code="444" type="string" name="Subscription-ID-Data" vendor-id="0" mandatory="must"/>
+	<avp code="446" type="Grouped" name="Used-Service-Unit" vendor-id="0" mandatory="must"/>
+	<avp code="447" type="Integer64" name="Value-Digits" vendor-id="0" mandatory="0"/>
+	<avp code="456" type="Grouped" name="Multiple-Services-Credit-Control" vendor-id="0" mandatory="must"/>
+	<avp code="55" type="Time" name="Event-Timestamp" vendor-id="0" mandatory="must"/>
+	<avp code="1001" type="Integer32" name="service type" mandatory="must"/>
+	<avp code="1004107" type="Grouped" name="Ad-Hoc-Event-Attributes" vendor-id="Siemens" mandatory="0"/>
+	<avp code="1004109" type="string" name="Cost-Code1" vendor-id="Siemens" mandatory="must"/>
+	<avp code="1004110" type="string" name="Cost-Code2" vendor-id="Siemens" mandatory="must"/>
+	<avp code="1004111" type="string" name="Modifier1" vendor-id="Siemens" mandatory="must"/>
+	<avp code="1004112" type="string" name="Modifier2" vendor-id="Siemens" mandatory="must"/>
+	<avp code="1004113" type="string" name="Modifier3" vendor-id="Siemens" mandatory="must"/>
+	<avp code="1004114" type="string" name="Modifier4" vendor-id="Siemens" mandatory="must"/>
+	<avp code="1004115" type="string" name="Modifier5" vendor-id="Siemens" mandatory="must"/>
+	<avp code="1004116" type="string" name="Client-Trx-Id" vendor-id="Siemens" mandatory="0"/>
+	<avp code="1004117" type="string" name="IMSI2" vendor-id="Siemens" mandatory="0"/>
+	<avp code="1005" type="string" name="Original-Dialed-Digits" vendor-id="0" mandatory="must"/>
+	<avp code="1017" type="Grouped" name="Granted-Unit-ID" vendor-id="0" mandatory="must"/>
+	<avp code="1043" type="Grouped" name="Charge-Unit-ID" mandatory="must"/>
+	<avp code="1044" type="Grouped" name="Charged-Amount-ID" mandatory="must"/>
+	<avp code="1045" type="Grouped" name="Remaining-Balance-Amount-ID" mandatory="must"/>
+	<avp code="1052" type="Unsigned32" name="Service-Type" vendor-id="2011" mandatory="0"/>
+	<avp code="1053" type="Unsigned32" name="Service-Subtype" vendor-id="2011" mandatory="0"/>
+	<avp code="1060" type="Grouped" name="DOX-Tones-ID"/>
+	<avp code="1291" type="Grouped" name="Remaining-Balance" vendor-id="0" mandatory="0"/>
+	<avp code="18" type="string" name="3GPP-SGSN-MCC-MNC" vendor-id="10415" mandatory="must"/>
+	<avp code="2" type="Unsigned32" name="3GPP-Charging-ID" vendor-id="10415" mandatory="must"/>
+	<avp code="2041" type="Unsigned32" name="Start-Time" vendor-id="2011" mandatory="0"/>
+	<avp code="2042" type="Unsigned32" name="Stop-Time" vendor-id="0" mandatory="must"/>
+	<avp code="21" type="string" name="3GPP-RAT-Type" vendor-id="10415"/>
+	<avp code="22" type="bytes" name="3GPP-User-Location-Info" vendor-id="10415" mandatory="must"/>
+	<avp code="25001" type="Grouped" name="Remaining-Allowance" vendor-id="0" mandatory="0"/>
+	<avp code="25002" type="Unsigned32" name="Allowance-Type" vendor-id="0" mandatory="0"/>
+	<avp code="25003" type="Unsigned32" name="Low-Balance-Indication" vendor-id="0"/>
+	<avp code="25004" type="Unsigned32" name="UOM-Code" vendor-id="0" mandatory="0"/>
+	<avp code="25005" type="string" name="VLR-ID" vendor-id="2011" mandatory="0"/>
+	<avp code="25011" type="string" name="SMS-ID" vendor-id="0"/>
+	<avp code="25012" name="Rated-Amount" vendor-id="0"/>
+	<avp code="25024" name="Announcement-Data" vendor-id="0" mandatory="0"/>
+	<avp code="25025" type="Unsigned32" name="Announcement-Code" vendor-id="0"/>
+	<avp code="25026" type="Unsigned32" name="Announcement-Language" vendor-id="0" mandatory="0"/>
+	<avp code="25027" name="Announcement-Parameters" vendor-id="0" mandatory="0"/>
+	<avp code="25028" type="Unsigned32" name="Announcement-Type" vendor-id="0" mandatory="0"/>
+	<avp code="25029" type="Unsigned32" name="Announcement-Value" vendor-id="0" mandatory="0"/>
+	<avp code="25030" type="Unsigned32" name="Announcement-Variable-Type" vendor-id="0" mandatory="0"/>
+	<avp code="25031" type="string" name="Announcement-Variable" vendor-id="0" mandatory="0"/>
+	<avp code="25032" type="Grouped" name="Last-Transaction-Details" vendor-id="0" mandatory="0"/>
+	<avp code="25033" type="string" name="Access-Code" vendor-id="0" mandatory="must"/>
+	<avp code="25034" type="string" name="Last-Event-Date" vendor-id="0" mandatory="must"/>
+	<avp code="25035" type="string" name="Balance-Expiration-Date" vendor-id="0" mandatory="0"/>
+	<avp code="25036" type="string" name="Allowance-Name" vendor-id="0" mandatory="0"/>
+	<avp code="25037" type="Unsigned32" name="Access-Type" vendor-id="2011" mandatory="0"/>
+	<avp code="25038" type="string" name="Bucket-Name" vendor-id="0" mandatory="0"/>
+	<avp code="25039" name="Bucket-Consumed" vendor-id="0" mandatory="0"/>
+	<avp code="25040" type="Unsigned32" name="Brand-Id" vendor-id="2011"/>
+	<avp code="25041" type="string" name="Cell-Information" vendor-id="2011" mandatory="0"/>
+	<avp code="25042" name="Announcement Variable Information" vendor-id="0" mandatory="0"/>
+	<avp code="25043" type="Unsigned32" name="Subscriber-state" vendor-id="0" mandatory="must"/>
+	<avp code="25045" type="Unsigned32" name="Reserved-Flag" vendor-id="0" mandatory="0"/>
+	<avp code="25055" type="Integer32" name="Spending limit duration" vendor-id="0" mandatory="must"/>
+	<avp code="258" type="Unsigned32" name="Auth-Application-Id" vendor-id="0" mandatory="must"/>
+	<avp code="26001" type="string" name="IMSI" vendor-id="0"/>
+	<avp code="26002" type="string" name="VPN" vendor-id="2011" mandatory="0"/>
+	<avp code="26004" name="Call Cost" vendor-id="0"/>
+	<avp code="26005" type="Unsigned32" name="Pre Post Indicator" vendor-id="0"/>
+	<avp code="26006" type="string" name="CRN" vendor-id="2011"/>
+	<avp code="26007" type="string" name="SMS-Reference-Number" vendor-id="2011"/>
+	<avp code="26008" type="Unsigned32" name="Bucket-Consumption-Indicator" vendor-id="0" mandatory="must"/>
+	<avp code="26009" type="Unsigned32" name="Requested-Limit" vendor-id="2011" mandatory="0"/>
+	<avp code="26010" type="Grouped" name="Remaining-Credit" vendor-id="0" mandatory="must"/>
+	<avp code="263" type="string" name="Session-ID" vendor-id="0" mandatory="must"/>
+	<avp code="27001" type="string" name="Promo-ID" vendor-id="0"/>
+	<avp code="27002" type="Integer32" name="Type-Of-Cost-Control" vendor-id="0"/>
+	<avp code="27003" type="Unsigned32" name="Remaining-Limit" vendor-id="0"/>
+	<avp code="27004" type="Unsigned32" name="Used-Limit" vendor-id="0"/>
+	<avp code="27005" type="Unsigned32" name="Cost-Control-Status" vendor-id="0"/>
+	<avp code="27006" name="Token-Information" vendor-id="0" mandatory="0"/>
+	<avp code="27007" type="string" name="Token-Value" vendor-id="0"/>
+	<avp code="27008" type="string" name="Token-Expiration-Date" vendor-id="0"/>
+	<avp code="27009" type="Unsigned32" name="Bonus-Query-Type" vendor-id="0"/>
+	<avp code="27010" type="Unsigned32" name="Subscriber-Zone-Type" vendor-id="0"/>
+	<avp code="27077" type="UTF8String" name="Product-ID" vendor-id="11580"/>
+	<avp code="27078" type="UTF8String" name="Transaction-ID" vendor-id="11580"/>
+	<avp code="27079" type="UTF8String" name="Allow-Item-Level-Cost" vendor-id="11580"/>
+	<avp code="27080" type="UTF8String" name="TM-Future-String-Field" vendor-id="11580"/>
+	<avp code="27111" name="CUG-Information" vendor-id="0" mandatory="0"/>
+	<avp code="27112" type="string" name="CUG-Name" vendor-id="0"/>
+	<avp code="27115" type="string" name="PricePlanID" vendor-id="0"/>
+	<avp code="27116" type="string" name="cgi area" vendor-id="0"/>
+	<avp code="27117" type="string" name="Allowance-String" vendor-id="0"/>
+	<avp code="27118" type="string" name="ServiceFilter" vendor-id="0"/>
+	<avp code="27121" name="Reserved-balance" vendor-id="0" mandatory="0"/>
+	<avp code="278" type="Unsigned32" name="Origin-State-Id" vendor-id="0" mandatory="must"/>
+	<avp code="281" type="string" name="Error-Message" vendor-id="0"/>
+	<avp code="293" type="string" name="Destination-Host" vendor-id="0" mandatory="must"/>
+	<avp code="3" type="Unsigned32" name="3GPP-PDP-Type" vendor-id="0"/>
+	<avp code="30" type="string" name="Called-Station-ID" vendor-id="0" mandatory="must"/>
+	<avp code="412" type="Unsigned64" name="CC-Input-Octets" vendor-id="0" mandatory="must"/>
+	<avp code="414" type="Unsigned64" name="CC-Output-Octets" vendor-id="0" mandatory="must"/>
+	<avp code="416" type="Unsigned32" name="CC-Request-Type" vendor-id="0" mandatory="must"/>
+	<avp code="417" type="Unsigned64" name="CC-Service-Specific-Units" vendor-id="0" mandatory="0"/>
+	<avp code="420" type="Unsigned32" name="CC-Time" vendor-id="0" mandatory="must"/>
+	<avp code="421" type="Unsigned64" name="CC-Total-Octets" vendor-id="0" mandatory="must"/>
+	<avp code="429" type="Integer32" name="Exponent" vendor-id="0" mandatory="0"/>
+	<avp code="430" type="Grouped" name="Final-Unit-Indication" vendor-id="0" mandatory="must"/>
+	<avp code="432" type="Unsigned32" name="Rating-Group" vendor-id="0" mandatory="must"/>
+	<avp code="433" type="Unsigned32" name="Redirect-Address-Type" vendor-id="0"/>
+	<avp code="434" name="Redirect-Server" vendor-id="0"/>
+	<avp code="435" type="string" name="Redirect-Server-Address" vendor-id="0"/>
+	<avp code="436" type="Integer32" name="Requested-Action" vendor-id="0" mandatory="must"/>
+	<avp code="437" type="Grouped" name="Requested-Service-Unit" vendor-id="0" mandatory="must"/>
+	<avp code="440" name="Service-Parameter-Info" vendor-id="0"/>
+	<avp code="441" type="Unsigned32" name="Service-Parameter-Type" vendor-id="0"/>
+	<avp code="442" type="string" name="Service-Parameter-Value" vendor-id="0"/>
+	<avp code="445" type="Grouped" name="Unit-Value" vendor-id="0" mandatory="0"/>
+	<avp code="448" type="Unsigned32" name="Validity-Time" vendor-id="0" mandatory="must"/>
+	<avp code="449" type="Integer32" name="Final-Unit-Action" vendor-id="0" mandatory="0"/>
+	<avp code="450" type="Unsigned32" name="Subscription-ID-Type" vendor-id="0" mandatory="must"/>
+	<avp code="455" type="Unsigned32" name="Multiple-Service-Indicator" vendor-id="0" mandatory="must"/>
+	<avp code="456" type="Grouped" name="Multiple-Services-Credit-Control" vendor-id="0" mandatory="must"/>
+	<avp code="458" type="Grouped" name="User-Equipment-Info" vendor-id="0" mandatory="0"/>
+	<avp code="459" type="Unsigned32" name="User-Equipment-Info-Type" vendor-id="0" mandatory="0"/>
+	<avp code="460" type="string" name="User-Equipment-Info-Value" vendor-id="0" mandatory="0"/>
+	<avp code="461" type="string" name="Service-Context-ID" vendor-id="0" mandatory="must"/>
+	<avp code="5" type="string" name="3GPP-GPRS-Negotiated-QoS-Profile" vendor-id="10415"/>
+	<avp code="6" type="bytes" name="3GPP-SGSNAddress" vendor-id="10415" mandatory="must"/>
+	<avp code="8" type="string" name="Framed-IP-Address" vendor-id="0" mandatory="must"/>
+	<avp code="831" type="string" name="Calling-Party-Address" vendor-id="10415" mandatory="0"/>
+	<avp code="832" type="string" name="Called-Party-Address" vendor-id="10415" mandatory="0"/>
+	<avp code="841" type="string" name="IMS-Charging-Identifier" vendor-id="10415" mandatory="0"/>
+	<avp code="872" type="Unsigned32" name="Reporting-Reason" vendor-id="10415" mandatory="must"/>
+	<avp code="873" type="Grouped" name="Service-Information" vendor-id="10415" mandatory="must"/>
+	<avp code="874" type="Grouped" name="PS-Information" vendor-id="10415" mandatory="must"/>
+	<avp code="9" type="string" name="3GPP-GGSN-MCC-MNC" vendor-id="10415" mandatory="must"/>
+	<avp code="460" type="Integer32" name="Prefix-Indicator" vendor-id="0"/>
+	<avp code="869" type="Unsigned64" name="Volume-Quota-Threshold" vendor-id="10415" mandatory="must"/>
+	<avp code="20602" type="Unsigned32" name="TerminalType" vendor-id="3902" mandatory="must"/>
+	<avp code="876" type="Grouped" name="IMS-Information" vendor-id="10415" mandatory="must"/>
+	<avp code="829" type="Unsigned32" name="Role-of-Node" vendor-id="10415" mandatory="must"/>
+	<avp code="862" type="Unsigned32" name="Node-Functionality" vendor-id="10415" mandatory="must"/>
+	<avp code="1263" type="string" name="Access-Network-Information" vendor-id="10415" mandatory="must"/>
+	<avp code="20400" type="Grouped" name="P2PSMS-Information" vendor-id="81000" mandatory="must"/>
+	<avp code="20511" type="Grouped" name="OA-Subscription-Id" vendor-id="81000" mandatory="must"/>
+	<avp code="20512" type="Grouped" name="DA-Subscription-Id" vendor-id="81000" mandatory="must"/>
+	<avp code="20300" type="Grouped" name="IN-Information" vendor-id="81000" mandatory="must"/>
+	<avp code="20401" type="string" name="SMSC-Address" vendor-id="81000" mandatory="must"/>
+	<avp code="20402" type="string" name="SM-Id" vendor-id="81000" mandatory="must"/>
+	<avp code="20403" type="string" name="SM-Length" vendor-id="81000" mandatory="must"/>
+	<avp code="20303" type="string" name="Calling-CellID-Or-SAI" vendor-id="81000" mandatory="must"/>
+	<avp code="20322" type="string" name="MSC-Address" vendor-id="81000" mandatory="must"/>
+	<avp code="1016" type="Grouped" name="QoS-Information" vendor-id="10415" mandatory="must"/>
+	<avp code="1023" type="Unsigned32" name="Bearer-Control-Mode" vendor-id="10415" mandatory="must"/>
+	<avp code="1006" type="Unsigned32" name="Event-Trigger" vendor-id="10415" mandatory="must"/>
+	<avp code="1001" type="Grouped" name="Charging-Rule-Install" vendor-id="10415" mandatory="must"/>
+	<avp code="1041" type="Unsigned32" name="APN-Aggregate-Max-Bitrate-UL" vendor-id="10415" mandatory="must"/>
+	<avp code="1040" type="Unsigned32" name="APN-Aggregate-Max-Bitrate-DL" vendor-id="10415" mandatory="must"/>
+	<avp code="1028" type="Unsigned32" name="QoS-Class-Identifier" vendor-id="10415" mandatory="must"/>
+	<avp code="1034" type="Grouped" name="Allocation-Retention-Priority" vendor-id="10415" mandatory="must"/>
+	<avp code="2904" type="Unsigned32" name="SL-Request-Type" vendor-id="10415" mandatory="must"/>
+	<avp code="1046" type="Unsigned32" name="Priority-Level" vendor-id="10415" mandatory="must"/>
+	<avp code="2000" type="Grouped" name="SMS-Information" vendor-id="10415" mandatory="must"/>
+	<avp code="2026" type="Grouped" name="Recipient" vendor-id="10415" mandatory="must"/>
+	<avp code="1201" type="Grouped" name="Recipient-Address" vendor-id="10415" mandatory="must"/>
+	<avp code="897" type="string" name="Address-Data" vendor-id="10415" mandatory="0"/>
+	<avp code="830" type="string" name="User-Session-ID" vendor-id="10415" mandatory="0"/>
+	<avp code="1" type="string" name="User-Name" vendor-id="0" mandatory="0"/>
+	<avp code="1004" type="string" name="Charging-Rule-Base-Name" vendor-id="10415" mandatory="0"/>
+	<avp code="1043" type="Unsigned32" name="Rule-Activation-Time" vendor-id="10415" mandatory="0"/>
+	<avp code="1044" type="Unsigned32" name="Rule-Deactivation-Time" vendor-id="10415" mandatory="0"/>
+	<avp code="1003" type="Grouped" name="Charging-Rule-Definition" vendor-id="10415" mandatory="must"/>
+	<avp code="20303" type="string" name="Calling-CellID-Or-SAI" vendor-id="81000" mandatory="0"/>
+	<avp code="20322" type="string" name="MSC-Address" vendor-id="81000" mandatory="0"/>
+	<avp code="20336" type="string" name="Calling-Party-Number" vendor-id="81000" mandatory="0"/>
+	<avp code="20337" type="string" name="Called-Party-Number" vendor-id="81000" mandatory="0"/>
+	<avp code="20338" type="Unsigned32" name="Service-Key" vendor-id="81000" mandatory="must"/>
+	<avp code="20302" type="string" name="Calling-Vlr-Number" vendor-id="81000" mandatory="0"/>
+	<avp code="20304" type="string" name="Calling-LAI" vendor-id="81000" mandatory="0"/>
+	<avp code="20305" type="string" name="Called-Vlr-Number" vendor-id="81000" mandatory="0"/>
+	<avp code="20306" type="string" name="Called-CellID-Or-SAI" vendor-id="81000" mandatory="0"/>
+	<avp code="20307" type="string" name="Called-LAI" vendor-id="81000" mandatory="0"/>
+	<avp code="20313" type="bytes" name="Bearer-Capability" vendor-id="81000" mandatory="must"/>
+	<avp code="20315" type="Unsigned32" name="EventType-BCSM" vendor-id="81000" mandatory="must"/>
+	<avp code="20201" type="string" name="IMSI" vendor-id="81000" mandatory="0"/>
+	<avp code="20321" type="bytes" name="Call-Reference-Number" vendor-id="81000" mandatory="must"/>
+	<avp code="20316" type="string" name="Redirecting-Party-Id" vendor-id="81000" mandatory="must"/>
+	<avp code="20317" type="bytes" name="Redirection-Information" vendor-id="81000" mandatory="must"/>
+	<avp code="20310" type="string" name="Original-Called-Party-Id" vendor-id="81000" mandatory="must"/>
+	<avp code="1228" type="IPAddress" name="SGSN-Address" vendor-id="10415" mandatory="0"/>
+</dictionary>
